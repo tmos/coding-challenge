@@ -1,0 +1,6554 @@
+[
+    {
+        "buzzword": "platforms",
+        "first": {
+            "name": "katsuhito"
+        },
+        "second": {
+            "name": "kazuo"
+        },
+        "third": {
+            "name": "katsur\u014d"
+        }
+    },
+    {
+        "buzzword": "programming languages",
+        "first": {
+            "name": "natsumi"
+        },
+        "second": {
+            "name": "s\u014dma"
+        },
+        "third": {
+            "name": "satomi"
+        }
+    },
+    {
+        "buzzword": "front-end development",
+        "first": {
+            "name": "souta"
+        },
+        "second": {
+            "name": "aki (2)"
+        },
+        "third": {
+            "name": "ichirou"
+        }
+    },
+    {
+        "buzzword": "back-end development",
+        "first": {
+            "name": "naoko"
+        },
+        "second": {
+            "name": "hideki"
+        },
+        "third": {
+            "name": "shinju"
+        }
+    },
+    {
+        "buzzword": "computer science",
+        "first": {
+            "name": "noriko"
+        },
+        "second": {
+            "name": "jir\u014d"
+        },
+        "third": {
+            "name": "junko"
+        }
+    },
+    {
+        "buzzword": "big data",
+        "first": {
+            "name": "daisuke"
+        },
+        "second": {
+            "name": "akimitsu"
+        },
+        "third": {
+            "name": "kosuke"
+        }
+    },
+    {
+        "buzzword": "theory",
+        "first": {
+            "name": "mitsuko"
+        },
+        "second": {
+            "name": "kosuke"
+        },
+        "third": {
+            "name": "reina (3)"
+        }
+    },
+    {
+        "buzzword": "books",
+        "first": {
+            "name": "jirou"
+        },
+        "second": {
+            "name": "hiroshi"
+        },
+        "third": {
+            "name": "keiko"
+        }
+    },
+    {
+        "buzzword": "editors",
+        "first": {
+            "name": "izumi"
+        },
+        "second": {
+            "name": "moe (2)"
+        },
+        "third": {
+            "name": "katsur\u014d"
+        }
+    },
+    {
+        "buzzword": "gaming",
+        "first": {
+            "name": "hoshi"
+        },
+        "second": {
+            "name": "hana (3)"
+        },
+        "third": {
+            "name": "kumiko"
+        }
+    },
+    {
+        "buzzword": "development environment",
+        "first": {
+            "name": "sumiko"
+        },
+        "second": {
+            "name": "shin'ya"
+        },
+        "third": {
+            "name": "sumiko"
+        }
+    },
+    {
+        "buzzword": "entertainment",
+        "first": {
+            "name": "osamu"
+        },
+        "second": {
+            "name": "akari"
+        },
+        "third": {
+            "name": "hotaru"
+        }
+    },
+    {
+        "buzzword": "databases",
+        "first": {
+            "name": "hana (3)"
+        },
+        "second": {
+            "name": "kiku"
+        },
+        "third": {
+            "name": "kur\u014d"
+        }
+    },
+    {
+        "buzzword": "media",
+        "first": {
+            "name": "ry\u014dichi"
+        },
+        "second": {
+            "name": "kiyoshi"
+        },
+        "third": {
+            "name": "shichir\u014d"
+        }
+    },
+    {
+        "buzzword": "learn",
+        "first": {
+            "name": "shigeru"
+        },
+        "second": {
+            "name": "hiroki"
+        },
+        "third": {
+            "name": "rei"
+        }
+    },
+    {
+        "buzzword": "security",
+        "first": {
+            "name": "souta"
+        },
+        "second": {
+            "name": "chou"
+        },
+        "third": {
+            "name": "ryuu"
+        }
+    },
+    {
+        "buzzword": "content management systems",
+        "first": {
+            "name": "akemi"
+        },
+        "second": {
+            "name": "rei"
+        },
+        "third": {
+            "name": "isamu"
+        }
+    },
+    {
+        "buzzword": "hardware",
+        "first": {
+            "name": "kyou"
+        },
+        "second": {
+            "name": "momoka"
+        },
+        "third": {
+            "name": "s\u014dta"
+        }
+    },
+    {
+        "buzzword": "business",
+        "first": {
+            "name": "miyu"
+        },
+        "second": {
+            "name": "asuka"
+        },
+        "third": {
+            "name": "katsurou"
+        }
+    },
+    {
+        "buzzword": "work",
+        "first": {
+            "name": "hiroto"
+        },
+        "second": {
+            "name": "kiyoko"
+        },
+        "third": {
+            "name": "jirou"
+        }
+    },
+    {
+        "buzzword": "networking",
+        "first": {
+            "name": "ayumu"
+        },
+        "second": {
+            "name": "gor\u014d"
+        },
+        "third": {
+            "name": "misaki"
+        }
+    },
+    {
+        "buzzword": "decentralized systems",
+        "first": {
+            "name": "ran"
+        },
+        "second": {
+            "name": "katashi"
+        },
+        "third": {
+            "name": "akihito"
+        }
+    },
+    {
+        "buzzword": "higher education",
+        "first": {
+            "name": "shinju"
+        },
+        "second": {
+            "name": "kazuya"
+        },
+        "third": {
+            "name": "noa (3)"
+        }
+    },
+    {
+        "buzzword": "miscellaneous",
+        "first": {
+            "name": "noriko"
+        },
+        "second": {
+            "name": "noburu"
+        },
+        "third": {
+            "name": "nao"
+        }
+    },
+    {
+        "buzzword": "related",
+        "first": {
+            "name": "megumi"
+        },
+        "second": {
+            "name": "haruto"
+        },
+        "third": {
+            "name": "kaoru"
+        }
+    },
+    {
+        "buzzword": "node.js",
+        "first": {
+            "name": "miyako"
+        },
+        "second": {
+            "name": "mami"
+        },
+        "third": {
+            "name": "moe (2)"
+        }
+    },
+    {
+        "buzzword": "cross-platform",
+        "first": {
+            "name": "chou"
+        },
+        "second": {
+            "name": "kyoko"
+        },
+        "third": {
+            "name": "ry\u016b"
+        }
+    },
+    {
+        "buzzword": "frontend development",
+        "first": {
+            "name": "nobuyuki"
+        },
+        "second": {
+            "name": "kaede"
+        },
+        "third": {
+            "name": "rokur\u014d"
+        }
+    },
+    {
+        "buzzword": "ios",
+        "first": {
+            "name": "manami"
+        },
+        "second": {
+            "name": "nobuyuki"
+        },
+        "third": {
+            "name": "megumi"
+        }
+    },
+    {
+        "buzzword": "android",
+        "first": {
+            "name": "kurou"
+        },
+        "second": {
+            "name": "fuyuko"
+        },
+        "third": {
+            "name": "daichi"
+        }
+    },
+    {
+        "buzzword": "iot & hybrid apps",
+        "first": {
+            "name": "shirou"
+        },
+        "second": {
+            "name": "k\u014dji"
+        },
+        "third": {
+            "name": "daichi"
+        }
+    },
+    {
+        "buzzword": "electron",
+        "first": {
+            "name": "naoki"
+        },
+        "second": {
+            "name": "itsuki"
+        },
+        "third": {
+            "name": "michiko"
+        }
+    },
+    {
+        "buzzword": "cordova",
+        "first": {
+            "name": "daichi"
+        },
+        "second": {
+            "name": "shota"
+        },
+        "third": {
+            "name": "ry\u014dichi"
+        }
+    },
+    {
+        "buzzword": "react native",
+        "first": {
+            "name": "ch\u014dko"
+        },
+        "second": {
+            "name": "daichi"
+        },
+        "third": {
+            "name": "sora"
+        }
+    },
+    {
+        "buzzword": "xamarin",
+        "first": {
+            "name": "sakiko"
+        },
+        "second": {
+            "name": "setsuko"
+        },
+        "third": {
+            "name": "ayako"
+        }
+    },
+    {
+        "buzzword": "linux",
+        "first": {
+            "name": "midori"
+        },
+        "second": {
+            "name": "nao"
+        },
+        "third": {
+            "name": "rin"
+        }
+    },
+    {
+        "buzzword": "containers",
+        "first": {
+            "name": "hachiro"
+        },
+        "second": {
+            "name": "ryuu"
+        },
+        "third": {
+            "name": "hinata"
+        }
+    },
+    {
+        "buzzword": "ebpf",
+        "first": {
+            "name": "shun (2)"
+        },
+        "second": {
+            "name": "satomi"
+        },
+        "third": {
+            "name": "masashi"
+        }
+    },
+    {
+        "buzzword": "arch-based projects",
+        "first": {
+            "name": "katsuhito"
+        },
+        "second": {
+            "name": "kiku"
+        },
+        "third": {
+            "name": "mitsuaki"
+        }
+    },
+    {
+        "buzzword": "macos",
+        "first": {
+            "name": "nori"
+        },
+        "second": {
+            "name": "jirou"
+        },
+        "third": {
+            "name": "kimiko"
+        }
+    },
+    {
+        "buzzword": "command-line",
+        "first": {
+            "name": "sumiko"
+        },
+        "second": {
+            "name": "momoko"
+        },
+        "third": {
+            "name": "ichir\u014d"
+        }
+    },
+    {
+        "buzzword": "screensavers",
+        "first": {
+            "name": "hiroki"
+        },
+        "second": {
+            "name": "hanz\u014d"
+        },
+        "third": {
+            "name": "noriaki"
+        }
+    },
+    {
+        "buzzword": "apps",
+        "first": {
+            "name": "juro (2)"
+        },
+        "second": {
+            "name": "hachiro"
+        },
+        "third": {
+            "name": "natsuko"
+        }
+    },
+    {
+        "buzzword": "open source apps",
+        "first": {
+            "name": "akari"
+        },
+        "second": {
+            "name": "kousuke"
+        },
+        "third": {
+            "name": "kei"
+        }
+    },
+    {
+        "buzzword": "watchos",
+        "first": {
+            "name": "nanako"
+        },
+        "second": {
+            "name": "arata"
+        },
+        "third": {
+            "name": "izumi"
+        }
+    },
+    {
+        "buzzword": "jvm",
+        "first": {
+            "name": "miho (2)"
+        },
+        "second": {
+            "name": "souta"
+        },
+        "third": {
+            "name": "jun (2)"
+        }
+    },
+    {
+        "buzzword": "salesforce",
+        "first": {
+            "name": "shingo"
+        },
+        "second": {
+            "name": "ryou"
+        },
+        "third": {
+            "name": "karen (3)"
+        }
+    },
+    {
+        "buzzword": "amazon web services",
+        "first": {
+            "name": "hachir\u014d"
+        },
+        "second": {
+            "name": "miku"
+        },
+        "third": {
+            "name": "shichirou"
+        }
+    },
+    {
+        "buzzword": "windows",
+        "first": {
+            "name": "sota"
+        },
+        "second": {
+            "name": "hiroto"
+        },
+        "third": {
+            "name": "junko"
+        }
+    },
+    {
+        "buzzword": "ipfs",
+        "first": {
+            "name": "reina (3)"
+        },
+        "second": {
+            "name": "hiroshi"
+        },
+        "third": {
+            "name": "chou"
+        }
+    },
+    {
+        "buzzword": "fuse",
+        "first": {
+            "name": "aiko"
+        },
+        "second": {
+            "name": "hifumi"
+        },
+        "third": {
+            "name": "masashi"
+        }
+    },
+    {
+        "buzzword": "heroku",
+        "first": {
+            "name": "jirou"
+        },
+        "second": {
+            "name": "shouhei"
+        },
+        "third": {
+            "name": "nanako"
+        }
+    },
+    {
+        "buzzword": "raspberry pi",
+        "first": {
+            "name": "jun (2)"
+        },
+        "second": {
+            "name": "ayane"
+        },
+        "third": {
+            "name": "hibiki"
+        }
+    },
+    {
+        "buzzword": "qt",
+        "first": {
+            "name": "shota"
+        },
+        "second": {
+            "name": "mitsuaki"
+        },
+        "third": {
+            "name": "katsuo"
+        }
+    },
+    {
+        "buzzword": "webextensions",
+        "first": {
+            "name": "ky\u014d"
+        },
+        "second": {
+            "name": "kotone"
+        },
+        "third": {
+            "name": "aina (3)"
+        }
+    },
+    {
+        "buzzword": "rubymotion",
+        "first": {
+            "name": "ryuunosuke"
+        },
+        "second": {
+            "name": "gor\u014d"
+        },
+        "third": {
+            "name": "ayako"
+        }
+    },
+    {
+        "buzzword": "smart tv",
+        "first": {
+            "name": "ry\u014dta"
+        },
+        "second": {
+            "name": "hiraku"
+        },
+        "third": {
+            "name": "rokur\u014d"
+        }
+    },
+    {
+        "buzzword": "gnome",
+        "first": {
+            "name": "hibiki"
+        },
+        "second": {
+            "name": "hikari"
+        },
+        "third": {
+            "name": "hanae"
+        }
+    },
+    {
+        "buzzword": "kde",
+        "first": {
+            "name": "katashi"
+        },
+        "second": {
+            "name": "manami"
+        },
+        "third": {
+            "name": "hideyoshi"
+        }
+    },
+    {
+        "buzzword": ".net",
+        "first": {
+            "name": "k\u014dki"
+        },
+        "second": {
+            "name": "masahiko"
+        },
+        "third": {
+            "name": "chikako"
+        }
+    },
+    {
+        "buzzword": "core",
+        "first": {
+            "name": "masashi"
+        },
+        "second": {
+            "name": "kiku"
+        },
+        "third": {
+            "name": "etsuko"
+        }
+    },
+    {
+        "buzzword": "roslyn",
+        "first": {
+            "name": "ryouichi"
+        },
+        "second": {
+            "name": "minoru"
+        },
+        "third": {
+            "name": "aki (2)"
+        }
+    },
+    {
+        "buzzword": "amazon alexa",
+        "first": {
+            "name": "noboru"
+        },
+        "second": {
+            "name": "itsuki"
+        },
+        "third": {
+            "name": "etsuko"
+        }
+    },
+    {
+        "buzzword": "digitalocean",
+        "first": {
+            "name": "emi"
+        },
+        "second": {
+            "name": "mio"
+        },
+        "third": {
+            "name": "minato"
+        }
+    },
+    {
+        "buzzword": "flutter",
+        "first": {
+            "name": "hideaki"
+        },
+        "second": {
+            "name": "jun'ichi"
+        },
+        "third": {
+            "name": "shinju"
+        }
+    },
+    {
+        "buzzword": "home assistant",
+        "first": {
+            "name": "shiori"
+        },
+        "second": {
+            "name": "s\u014dma"
+        },
+        "third": {
+            "name": "jiro"
+        }
+    },
+    {
+        "buzzword": "ibm cloud",
+        "first": {
+            "name": "mari (2)"
+        },
+        "second": {
+            "name": "shota"
+        },
+        "third": {
+            "name": "riku (2)"
+        }
+    },
+    {
+        "buzzword": "firebase",
+        "first": {
+            "name": "katsuo"
+        },
+        "second": {
+            "name": "nobutoshi"
+        },
+        "third": {
+            "name": "aimi"
+        }
+    },
+    {
+        "buzzword": "robot operating system 2.0",
+        "first": {
+            "name": "misaki"
+        },
+        "second": {
+            "name": "ryouichi"
+        },
+        "third": {
+            "name": "nobuyuki"
+        }
+    },
+    {
+        "buzzword": "adafruit io",
+        "first": {
+            "name": "miyako"
+        },
+        "second": {
+            "name": "ken (2)"
+        },
+        "third": {
+            "name": "kanna"
+        }
+    },
+    {
+        "buzzword": "cloudflare",
+        "first": {
+            "name": "hitomi"
+        },
+        "second": {
+            "name": "shion"
+        },
+        "third": {
+            "name": "kenzou"
+        }
+    },
+    {
+        "buzzword": "actions on google",
+        "first": {
+            "name": "masashi"
+        },
+        "second": {
+            "name": "hikaru"
+        },
+        "third": {
+            "name": "shichiro"
+        }
+    },
+    {
+        "buzzword": "javascript",
+        "first": {
+            "name": "isamu"
+        },
+        "second": {
+            "name": "mai (2)"
+        },
+        "third": {
+            "name": "kyou"
+        }
+    },
+    {
+        "buzzword": "promises",
+        "first": {
+            "name": "shigeru"
+        },
+        "second": {
+            "name": "ayane"
+        },
+        "third": {
+            "name": "aya (1)"
+        }
+    },
+    {
+        "buzzword": "standard style",
+        "first": {
+            "name": "katsuro"
+        },
+        "second": {
+            "name": "hiroshi"
+        },
+        "third": {
+            "name": "kaoru"
+        }
+    },
+    {
+        "buzzword": "must watch talks",
+        "first": {
+            "name": "nobutoshi"
+        },
+        "second": {
+            "name": "kenta"
+        },
+        "third": {
+            "name": "ry\u014dta"
+        }
+    },
+    {
+        "buzzword": "tips",
+        "first": {
+            "name": "rin"
+        },
+        "second": {
+            "name": "kenshin"
+        },
+        "third": {
+            "name": "j\u016br\u014d"
+        }
+    },
+    {
+        "buzzword": "network layer",
+        "first": {
+            "name": "gor\u014d"
+        },
+        "second": {
+            "name": "natsuko"
+        },
+        "third": {
+            "name": "ichiro"
+        }
+    },
+    {
+        "buzzword": "micro npm packages",
+        "first": {
+            "name": "ry\u016b"
+        },
+        "second": {
+            "name": "mari (2)"
+        },
+        "third": {
+            "name": "rio (2)"
+        }
+    },
+    {
+        "buzzword": "mad science npm packages",
+        "first": {
+            "name": "nobutoshi"
+        },
+        "second": {
+            "name": "shouhei"
+        },
+        "third": {
+            "name": "hideaki"
+        }
+    },
+    {
+        "buzzword": "maintenance modules",
+        "first": {
+            "name": "saburo"
+        },
+        "second": {
+            "name": "katashi"
+        },
+        "third": {
+            "name": "kiyoshi"
+        }
+    },
+    {
+        "buzzword": "npm",
+        "first": {
+            "name": "sh\u014d"
+        },
+        "second": {
+            "name": "shir\u014d"
+        },
+        "third": {
+            "name": "miyu"
+        }
+    },
+    {
+        "buzzword": "ava",
+        "first": {
+            "name": "hideaki"
+        },
+        "second": {
+            "name": "noa (3)"
+        },
+        "third": {
+            "name": "kenta"
+        }
+    },
+    {
+        "buzzword": "eslint",
+        "first": {
+            "name": "ky\u014d"
+        },
+        "second": {
+            "name": "keiko"
+        },
+        "third": {
+            "name": "aya (1)"
+        }
+    },
+    {
+        "buzzword": "functional programming",
+        "first": {
+            "name": "akimitsu"
+        },
+        "second": {
+            "name": "shouta"
+        },
+        "third": {
+            "name": "miku"
+        }
+    },
+    {
+        "buzzword": "observables",
+        "first": {
+            "name": "ky\u014dko"
+        },
+        "second": {
+            "name": "ichiro"
+        },
+        "third": {
+            "name": "daiki"
+        }
+    },
+    {
+        "buzzword": "npm scripts",
+        "first": {
+            "name": "rei"
+        },
+        "second": {
+            "name": "susumu"
+        },
+        "third": {
+            "name": "hiroko"
+        }
+    },
+    {
+        "buzzword": "30 seconds of code",
+        "first": {
+            "name": "hanako"
+        },
+        "second": {
+            "name": "akiko"
+        },
+        "third": {
+            "name": "hayato"
+        }
+    },
+    {
+        "buzzword": "swift",
+        "first": {
+            "name": "kotone"
+        },
+        "second": {
+            "name": "mitsuko"
+        },
+        "third": {
+            "name": "masashi"
+        }
+    },
+    {
+        "buzzword": "education",
+        "first": {
+            "name": "kyou"
+        },
+        "second": {
+            "name": "mariko"
+        },
+        "third": {
+            "name": "aimi"
+        }
+    },
+    {
+        "buzzword": "playgrounds",
+        "first": {
+            "name": "hachiro"
+        },
+        "second": {
+            "name": "hideyoshi"
+        },
+        "third": {
+            "name": "shin"
+        }
+    },
+    {
+        "buzzword": "python",
+        "first": {
+            "name": "kyoko"
+        },
+        "second": {
+            "name": "k\u014dsuke"
+        },
+        "third": {
+            "name": "shingo"
+        }
+    },
+    {
+        "buzzword": "asyncio",
+        "first": {
+            "name": "jurou"
+        },
+        "second": {
+            "name": "mayumi (1)"
+        },
+        "third": {
+            "name": "k\u014dsuke"
+        }
+    },
+    {
+        "buzzword": "scientific audio",
+        "first": {
+            "name": "jun (2)"
+        },
+        "second": {
+            "name": "izumi"
+        },
+        "third": {
+            "name": "ry\u014d"
+        }
+    },
+    {
+        "buzzword": "circuitpython",
+        "first": {
+            "name": "masaru"
+        },
+        "second": {
+            "name": "kousuke"
+        },
+        "third": {
+            "name": "nao"
+        }
+    },
+    {
+        "buzzword": "data science",
+        "first": {
+            "name": "hideyoshi"
+        },
+        "second": {
+            "name": "shirou"
+        },
+        "third": {
+            "name": "chouko"
+        }
+    },
+    {
+        "buzzword": "typing",
+        "first": {
+            "name": "kiku"
+        },
+        "second": {
+            "name": "kaede"
+        },
+        "third": {
+            "name": "mayu"
+        }
+    },
+    {
+        "buzzword": "rust",
+        "first": {
+            "name": "kiku"
+        },
+        "second": {
+            "name": "shir\u014d"
+        },
+        "third": {
+            "name": "souta"
+        }
+    },
+    {
+        "buzzword": "haskell",
+        "first": {
+            "name": "katsurou"
+        },
+        "second": {
+            "name": "haruko"
+        },
+        "third": {
+            "name": "akiko"
+        }
+    },
+    {
+        "buzzword": "purescript",
+        "first": {
+            "name": "gorou"
+        },
+        "second": {
+            "name": "katsurou"
+        },
+        "third": {
+            "name": "chouko"
+        }
+    },
+    {
+        "buzzword": "go",
+        "first": {
+            "name": "minako"
+        },
+        "second": {
+            "name": "katsuo"
+        },
+        "third": {
+            "name": "kanako"
+        }
+    },
+    {
+        "buzzword": "scala",
+        "first": {
+            "name": "shirou"
+        },
+        "second": {
+            "name": "kosuke"
+        },
+        "third": {
+            "name": "katsuhito"
+        }
+    },
+    {
+        "buzzword": "scala native",
+        "first": {
+            "name": "sh\u014dta"
+        },
+        "second": {
+            "name": "makoto"
+        },
+        "third": {
+            "name": "hibiki"
+        }
+    },
+    {
+        "buzzword": "ruby",
+        "first": {
+            "name": "shin'ichi"
+        },
+        "second": {
+            "name": "miyu"
+        },
+        "third": {
+            "name": "ichiro"
+        }
+    },
+    {
+        "buzzword": "clojure",
+        "first": {
+            "name": "kosuke"
+        },
+        "second": {
+            "name": "riko"
+        },
+        "third": {
+            "name": "naoki"
+        }
+    },
+    {
+        "buzzword": "clojurescript",
+        "first": {
+            "name": "akiko"
+        },
+        "second": {
+            "name": "kiyoshi"
+        },
+        "third": {
+            "name": "michi (1)"
+        }
+    },
+    {
+        "buzzword": "elixir",
+        "first": {
+            "name": "mariko"
+        },
+        "second": {
+            "name": "hoshi"
+        },
+        "third": {
+            "name": "kiku"
+        }
+    },
+    {
+        "buzzword": "elm",
+        "first": {
+            "name": "kyouko"
+        },
+        "second": {
+            "name": "aki (2)"
+        },
+        "third": {
+            "name": "shingo"
+        }
+    },
+    {
+        "buzzword": "erlang",
+        "first": {
+            "name": "nobuyuki"
+        },
+        "second": {
+            "name": "ryota"
+        },
+        "third": {
+            "name": "rin"
+        }
+    },
+    {
+        "buzzword": "julia",
+        "first": {
+            "name": "nanako"
+        },
+        "second": {
+            "name": "susumu"
+        },
+        "third": {
+            "name": "kyou"
+        }
+    },
+    {
+        "buzzword": "lua",
+        "first": {
+            "name": "sakiko"
+        },
+        "second": {
+            "name": "shou"
+        },
+        "third": {
+            "name": "aya (1)"
+        }
+    },
+    {
+        "buzzword": "c",
+        "first": {
+            "name": "hanako"
+        },
+        "second": {
+            "name": "gor\u014d"
+        },
+        "third": {
+            "name": "aiko"
+        }
+    },
+    {
+        "buzzword": "c/c++",
+        "first": {
+            "name": "hoshi"
+        },
+        "second": {
+            "name": "kotone"
+        },
+        "third": {
+            "name": "ren"
+        }
+    },
+    {
+        "buzzword": "r",
+        "first": {
+            "name": "akimitsu"
+        },
+        "second": {
+            "name": "sakurako"
+        },
+        "third": {
+            "name": "mitsuko"
+        }
+    },
+    {
+        "buzzword": "d",
+        "first": {
+            "name": "rokur\u014d"
+        },
+        "second": {
+            "name": "kyo"
+        },
+        "third": {
+            "name": "chiyo"
+        }
+    },
+    {
+        "buzzword": "common lisp",
+        "first": {
+            "name": "k\u014dta"
+        },
+        "second": {
+            "name": "kaori"
+        },
+        "third": {
+            "name": "ran"
+        }
+    },
+    {
+        "buzzword": "perl",
+        "first": {
+            "name": "k\u014dki"
+        },
+        "second": {
+            "name": "ry\u016bji"
+        },
+        "third": {
+            "name": "saburou"
+        }
+    },
+    {
+        "buzzword": "groovy",
+        "first": {
+            "name": "shin'ya"
+        },
+        "second": {
+            "name": "koharu"
+        },
+        "third": {
+            "name": "shouta"
+        }
+    },
+    {
+        "buzzword": "dart",
+        "first": {
+            "name": "katsuo"
+        },
+        "second": {
+            "name": "s\u014dma"
+        },
+        "third": {
+            "name": "juurou"
+        }
+    },
+    {
+        "buzzword": "java",
+        "first": {
+            "name": "ryouta"
+        },
+        "second": {
+            "name": "sakura"
+        },
+        "third": {
+            "name": "rikuto"
+        }
+    },
+    {
+        "buzzword": "rxjava",
+        "first": {
+            "name": "k\u014dta"
+        },
+        "second": {
+            "name": "haruka"
+        },
+        "third": {
+            "name": "miyako"
+        }
+    },
+    {
+        "buzzword": "kotlin",
+        "first": {
+            "name": "chinatsu"
+        },
+        "second": {
+            "name": "kazuo"
+        },
+        "third": {
+            "name": "akira"
+        }
+    },
+    {
+        "buzzword": "ocaml",
+        "first": {
+            "name": "nanami"
+        },
+        "second": {
+            "name": "suzu"
+        },
+        "third": {
+            "name": "sota"
+        }
+    },
+    {
+        "buzzword": "coldfusion",
+        "first": {
+            "name": "akari"
+        },
+        "second": {
+            "name": "shin"
+        },
+        "third": {
+            "name": "noboru"
+        }
+    },
+    {
+        "buzzword": "fortran",
+        "first": {
+            "name": "setsuko"
+        },
+        "second": {
+            "name": "rokuro"
+        },
+        "third": {
+            "name": "gorou"
+        }
+    },
+    {
+        "buzzword": "php",
+        "first": {
+            "name": "ry\u016bji"
+        },
+        "second": {
+            "name": "ai (1)"
+        },
+        "third": {
+            "name": "aoi"
+        }
+    },
+    {
+        "buzzword": "composer",
+        "first": {
+            "name": "sh\u014dta"
+        },
+        "second": {
+            "name": "jun (2)"
+        },
+        "third": {
+            "name": "hikaru"
+        }
+    },
+    {
+        "buzzword": "pascal",
+        "first": {
+            "name": "kichiro"
+        },
+        "second": {
+            "name": "sakiko"
+        },
+        "third": {
+            "name": "jun (2)"
+        }
+    },
+    {
+        "buzzword": "assembler",
+        "first": {
+            "name": "ichirou"
+        },
+        "second": {
+            "name": "daiki"
+        },
+        "third": {
+            "name": "ayako"
+        }
+    },
+    {
+        "buzzword": "autohotkey",
+        "first": {
+            "name": "akiko"
+        },
+        "second": {
+            "name": "k\u014dta"
+        },
+        "third": {
+            "name": "ai (1)"
+        }
+    },
+    {
+        "buzzword": "autoit",
+        "first": {
+            "name": "rokurou"
+        },
+        "second": {
+            "name": "sakura"
+        },
+        "third": {
+            "name": "hana (3)"
+        }
+    },
+    {
+        "buzzword": "crystal",
+        "first": {
+            "name": "satomi"
+        },
+        "second": {
+            "name": "hanzou"
+        },
+        "third": {
+            "name": "ran"
+        }
+    },
+    {
+        "buzzword": "frege",
+        "first": {
+            "name": "shirou"
+        },
+        "second": {
+            "name": "chiyo"
+        },
+        "third": {
+            "name": "sora"
+        }
+    },
+    {
+        "buzzword": "cmake",
+        "first": {
+            "name": "hideki"
+        },
+        "second": {
+            "name": "jiro"
+        },
+        "third": {
+            "name": "akiko"
+        }
+    },
+    {
+        "buzzword": "actionscript 3",
+        "first": {
+            "name": "itsuki"
+        },
+        "second": {
+            "name": "chinatsu"
+        },
+        "third": {
+            "name": "ry\u016b"
+        }
+    },
+    {
+        "buzzword": "eta",
+        "first": {
+            "name": "ichiro"
+        },
+        "second": {
+            "name": "saburou"
+        },
+        "third": {
+            "name": "sora"
+        }
+    },
+    {
+        "buzzword": "idris",
+        "first": {
+            "name": "akari"
+        },
+        "second": {
+            "name": "hideyoshi"
+        },
+        "third": {
+            "name": "rokuro"
+        }
+    },
+    {
+        "buzzword": "ada/spark",
+        "first": {
+            "name": "katsuo"
+        },
+        "second": {
+            "name": "junko"
+        },
+        "third": {
+            "name": "ch\u014dko"
+        }
+    },
+    {
+        "buzzword": "q#",
+        "first": {
+            "name": "mariko"
+        },
+        "second": {
+            "name": "rokur\u014d"
+        },
+        "third": {
+            "name": "atsushi"
+        }
+    },
+    {
+        "buzzword": "imba",
+        "first": {
+            "name": "osamu"
+        },
+        "second": {
+            "name": "hoshiko"
+        },
+        "third": {
+            "name": "sabur\u014d"
+        }
+    },
+    {
+        "buzzword": "vala",
+        "first": {
+            "name": "kyou"
+        },
+        "second": {
+            "name": "shinobu"
+        },
+        "third": {
+            "name": "shun (2)"
+        }
+    },
+    {
+        "buzzword": "es6 tools",
+        "first": {
+            "name": "michi (1)"
+        },
+        "second": {
+            "name": "shin'ichi"
+        },
+        "third": {
+            "name": "naomi (2)"
+        }
+    },
+    {
+        "buzzword": "web performance optimization",
+        "first": {
+            "name": "hiroki"
+        },
+        "second": {
+            "name": "shirou"
+        },
+        "third": {
+            "name": "daiki"
+        }
+    },
+    {
+        "buzzword": "web tools",
+        "first": {
+            "name": "mariko"
+        },
+        "second": {
+            "name": "shin"
+        },
+        "third": {
+            "name": "sh\u014dta"
+        }
+    },
+    {
+        "buzzword": "css",
+        "first": {
+            "name": "chou"
+        },
+        "second": {
+            "name": "miu"
+        },
+        "third": {
+            "name": "aiko"
+        }
+    },
+    {
+        "buzzword": "critical-path tools",
+        "first": {
+            "name": "katsuhito"
+        },
+        "second": {
+            "name": "akimitsu"
+        },
+        "third": {
+            "name": "hideki"
+        }
+    },
+    {
+        "buzzword": "scalability",
+        "first": {
+            "name": "naomi (2)"
+        },
+        "second": {
+            "name": "sumiko"
+        },
+        "third": {
+            "name": "miyu"
+        }
+    },
+    {
+        "buzzword": "must-watch talks",
+        "first": {
+            "name": "haru"
+        },
+        "second": {
+            "name": "shiro"
+        },
+        "third": {
+            "name": "kouki"
+        }
+    },
+    {
+        "buzzword": "protips",
+        "first": {
+            "name": "jir\u014d"
+        },
+        "second": {
+            "name": "nobu"
+        },
+        "third": {
+            "name": "kurou"
+        }
+    },
+    {
+        "buzzword": "frameworks",
+        "first": {
+            "name": "shinobu"
+        },
+        "second": {
+            "name": "s\u014dma"
+        },
+        "third": {
+            "name": "emi"
+        }
+    },
+    {
+        "buzzword": "react",
+        "first": {
+            "name": "kaoru"
+        },
+        "second": {
+            "name": "ryuuji"
+        },
+        "third": {
+            "name": "aya (1)"
+        }
+    },
+    {
+        "buzzword": "relay",
+        "first": {
+            "name": "jir\u014d"
+        },
+        "second": {
+            "name": "sota"
+        },
+        "third": {
+            "name": "nanami"
+        }
+    },
+    {
+        "buzzword": "react hooks",
+        "first": {
+            "name": "kotone"
+        },
+        "second": {
+            "name": "ch\u014dko"
+        },
+        "third": {
+            "name": "sh\u014dhei"
+        }
+    },
+    {
+        "buzzword": "web components",
+        "first": {
+            "name": "hiraku"
+        },
+        "second": {
+            "name": "misaki"
+        },
+        "third": {
+            "name": "masahiko"
+        }
+    },
+    {
+        "buzzword": "polymer",
+        "first": {
+            "name": "ayaka"
+        },
+        "second": {
+            "name": "riku (2)"
+        },
+        "third": {
+            "name": "kohaku"
+        }
+    },
+    {
+        "buzzword": "angular",
+        "first": {
+            "name": "aiko"
+        },
+        "second": {
+            "name": "ryouichi"
+        },
+        "third": {
+            "name": "shun (2)"
+        }
+    },
+    {
+        "buzzword": "backbone",
+        "first": {
+            "name": "j\u016br\u014d"
+        },
+        "second": {
+            "name": "saburo"
+        },
+        "third": {
+            "name": "nobuyuki"
+        }
+    },
+    {
+        "buzzword": "html5",
+        "first": {
+            "name": "hiroto"
+        },
+        "second": {
+            "name": "mami"
+        },
+        "third": {
+            "name": "ken'ichi"
+        }
+    },
+    {
+        "buzzword": "svg",
+        "first": {
+            "name": "shingo"
+        },
+        "second": {
+            "name": "natsumi"
+        },
+        "third": {
+            "name": "setsuko"
+        }
+    },
+    {
+        "buzzword": "canvas",
+        "first": {
+            "name": "chouko"
+        },
+        "second": {
+            "name": "mika (2)"
+        },
+        "third": {
+            "name": "mitsuaki"
+        }
+    },
+    {
+        "buzzword": "knockoutjs",
+        "first": {
+            "name": "shin'ya"
+        },
+        "second": {
+            "name": "juurou"
+        },
+        "third": {
+            "name": "sh\u014dhei"
+        }
+    },
+    {
+        "buzzword": "dojo toolkit",
+        "first": {
+            "name": "ryota"
+        },
+        "second": {
+            "name": "minoru"
+        },
+        "third": {
+            "name": "noburu"
+        }
+    },
+    {
+        "buzzword": "inspiration",
+        "first": {
+            "name": "hideyoshi"
+        },
+        "second": {
+            "name": "mika (2)"
+        },
+        "third": {
+            "name": "kenzou"
+        }
+    },
+    {
+        "buzzword": "ember",
+        "first": {
+            "name": "mao (1)"
+        },
+        "second": {
+            "name": "momoka"
+        },
+        "third": {
+            "name": "rio (2)"
+        }
+    },
+    {
+        "buzzword": "android ui",
+        "first": {
+            "name": "shingo"
+        },
+        "second": {
+            "name": "kohaku"
+        },
+        "third": {
+            "name": "gor\u014d"
+        }
+    },
+    {
+        "buzzword": "ios ui",
+        "first": {
+            "name": "sh\u014d"
+        },
+        "second": {
+            "name": "ken (2)"
+        },
+        "third": {
+            "name": "riko"
+        }
+    },
+    {
+        "buzzword": "meteor",
+        "first": {
+            "name": "riku (2)"
+        },
+        "second": {
+            "name": "ayumu"
+        },
+        "third": {
+            "name": "miyako"
+        }
+    },
+    {
+        "buzzword": "bem",
+        "first": {
+            "name": "riku (2)"
+        },
+        "second": {
+            "name": "kenshin"
+        },
+        "third": {
+            "name": "rokurou"
+        }
+    },
+    {
+        "buzzword": "flexbox",
+        "first": {
+            "name": "ryouta"
+        },
+        "second": {
+            "name": "ch\u014d"
+        },
+        "third": {
+            "name": "hiroki"
+        }
+    },
+    {
+        "buzzword": "web typography",
+        "first": {
+            "name": "rin"
+        },
+        "second": {
+            "name": "akihiko"
+        },
+        "third": {
+            "name": "ichiro"
+        }
+    },
+    {
+        "buzzword": "web accessibility",
+        "first": {
+            "name": "shin'ya"
+        },
+        "second": {
+            "name": "kiyoko"
+        },
+        "third": {
+            "name": "kumiko"
+        }
+    },
+    {
+        "buzzword": "material design",
+        "first": {
+            "name": "nobuko"
+        },
+        "second": {
+            "name": "minoru"
+        },
+        "third": {
+            "name": "kouji"
+        }
+    },
+    {
+        "buzzword": "d3",
+        "first": {
+            "name": "sota"
+        },
+        "second": {
+            "name": "miho (2)"
+        },
+        "third": {
+            "name": "katsuo"
+        }
+    },
+    {
+        "buzzword": "emails",
+        "first": {
+            "name": "miu"
+        },
+        "second": {
+            "name": "rokuro"
+        },
+        "third": {
+            "name": "ry\u014dta"
+        }
+    },
+    {
+        "buzzword": "jquery",
+        "first": {
+            "name": "ayaka"
+        },
+        "second": {
+            "name": "kouta"
+        },
+        "third": {
+            "name": "rin"
+        }
+    },
+    {
+        "buzzword": "tips",
+        "first": {
+            "name": "kouta"
+        },
+        "second": {
+            "name": "shichir\u014d"
+        },
+        "third": {
+            "name": "mizuki"
+        }
+    },
+    {
+        "buzzword": "web audio",
+        "first": {
+            "name": "sakurako"
+        },
+        "second": {
+            "name": "moriko"
+        },
+        "third": {
+            "name": "kouta"
+        }
+    },
+    {
+        "buzzword": "offline-first",
+        "first": {
+            "name": "aoi"
+        },
+        "second": {
+            "name": "ken'ichi"
+        },
+        "third": {
+            "name": "noa (3)"
+        }
+    },
+    {
+        "buzzword": "static website services",
+        "first": {
+            "name": "jurou"
+        },
+        "second": {
+            "name": "shizuka"
+        },
+        "third": {
+            "name": "kuro"
+        }
+    },
+    {
+        "buzzword": "cycle.js",
+        "first": {
+            "name": "k\u014dsuke"
+        },
+        "second": {
+            "name": "kurou"
+        },
+        "third": {
+            "name": "kokoro"
+        }
+    },
+    {
+        "buzzword": "text editing",
+        "first": {
+            "name": "kanna"
+        },
+        "second": {
+            "name": "natsuko"
+        },
+        "third": {
+            "name": "hana (3)"
+        }
+    },
+    {
+        "buzzword": "motion ui design",
+        "first": {
+            "name": "mai (2)"
+        },
+        "second": {
+            "name": "minato"
+        },
+        "third": {
+            "name": "kenji"
+        }
+    },
+    {
+        "buzzword": "vue.js",
+        "first": {
+            "name": "masahiko"
+        },
+        "second": {
+            "name": "daisuke"
+        },
+        "third": {
+            "name": "shigeru"
+        }
+    },
+    {
+        "buzzword": "marionette.js",
+        "first": {
+            "name": "hayate"
+        },
+        "second": {
+            "name": "suzu"
+        },
+        "third": {
+            "name": "katsuo"
+        }
+    },
+    {
+        "buzzword": "aurelia",
+        "first": {
+            "name": "megumi"
+        },
+        "second": {
+            "name": "sakura"
+        },
+        "third": {
+            "name": "mika (2)"
+        }
+    },
+    {
+        "buzzword": "charting",
+        "first": {
+            "name": "itsuki"
+        },
+        "second": {
+            "name": "fuyuko"
+        },
+        "third": {
+            "name": "miku"
+        }
+    },
+    {
+        "buzzword": "ionic framework 2",
+        "first": {
+            "name": "isamu"
+        },
+        "second": {
+            "name": "sakurako"
+        },
+        "third": {
+            "name": "ayumu"
+        }
+    },
+    {
+        "buzzword": "chrome devtools",
+        "first": {
+            "name": "cho"
+        },
+        "second": {
+            "name": "akiko"
+        },
+        "third": {
+            "name": "aiko"
+        }
+    },
+    {
+        "buzzword": "postcss",
+        "first": {
+            "name": "hinata"
+        },
+        "second": {
+            "name": "miu"
+        },
+        "third": {
+            "name": "kohaku"
+        }
+    },
+    {
+        "buzzword": "draft.js",
+        "first": {
+            "name": "kiyoshi"
+        },
+        "second": {
+            "name": "kotone"
+        },
+        "third": {
+            "name": "mio"
+        }
+    },
+    {
+        "buzzword": "service workers",
+        "first": {
+            "name": "masahiko"
+        },
+        "second": {
+            "name": "hinata"
+        },
+        "third": {
+            "name": "chika (2)"
+        }
+    },
+    {
+        "buzzword": "progressive web apps",
+        "first": {
+            "name": "ayaka"
+        },
+        "second": {
+            "name": "hinata"
+        },
+        "third": {
+            "name": "sachiko"
+        }
+    },
+    {
+        "buzzword": "choo",
+        "first": {
+            "name": "kimiko"
+        },
+        "second": {
+            "name": "chiyoko"
+        },
+        "third": {
+            "name": "saori"
+        }
+    },
+    {
+        "buzzword": "redux",
+        "first": {
+            "name": "k\u014dta"
+        },
+        "second": {
+            "name": "akihiko"
+        },
+        "third": {
+            "name": "ryouichi"
+        }
+    },
+    {
+        "buzzword": "webpack",
+        "first": {
+            "name": "miho (2)"
+        },
+        "second": {
+            "name": "masami"
+        },
+        "third": {
+            "name": "momoka"
+        }
+    },
+    {
+        "buzzword": "browserify",
+        "first": {
+            "name": "gor\u014d"
+        },
+        "second": {
+            "name": "hibiki"
+        },
+        "third": {
+            "name": "natsuki"
+        }
+    },
+    {
+        "buzzword": "sass",
+        "first": {
+            "name": "chinatsu"
+        },
+        "second": {
+            "name": "kenji"
+        },
+        "third": {
+            "name": "natsuki"
+        }
+    },
+    {
+        "buzzword": "ant design",
+        "first": {
+            "name": "michi (1)"
+        },
+        "second": {
+            "name": "mei (2)"
+        },
+        "third": {
+            "name": "mariko"
+        }
+    },
+    {
+        "buzzword": "less",
+        "first": {
+            "name": "hikari"
+        },
+        "second": {
+            "name": "kenz\u014d"
+        },
+        "third": {
+            "name": "mayu"
+        }
+    },
+    {
+        "buzzword": "webgl",
+        "first": {
+            "name": "kichir\u014d"
+        },
+        "second": {
+            "name": "ky\u014dko"
+        },
+        "third": {
+            "name": "ryuuji"
+        }
+    },
+    {
+        "buzzword": "preact",
+        "first": {
+            "name": "miyu"
+        },
+        "second": {
+            "name": "hikaru"
+        },
+        "third": {
+            "name": "natsuki"
+        }
+    },
+    {
+        "buzzword": "progressive enhancement",
+        "first": {
+            "name": "kosuke"
+        },
+        "second": {
+            "name": "chinatsu"
+        },
+        "third": {
+            "name": "mayumi (1)"
+        }
+    },
+    {
+        "buzzword": "next.js",
+        "first": {
+            "name": "katsuo"
+        },
+        "second": {
+            "name": "nobutoshi"
+        },
+        "third": {
+            "name": "hoshi"
+        }
+    },
+    {
+        "buzzword": "hyperapp",
+        "first": {
+            "name": "akane"
+        },
+        "second": {
+            "name": "hina"
+        },
+        "third": {
+            "name": "kurou"
+        }
+    },
+    {
+        "buzzword": "lit-html",
+        "first": {
+            "name": "ami (3)"
+        },
+        "second": {
+            "name": "nori"
+        },
+        "third": {
+            "name": "shichir\u014d"
+        }
+    },
+    {
+        "buzzword": "jamstack",
+        "first": {
+            "name": "katsur\u014d"
+        },
+        "second": {
+            "name": "hoshi"
+        },
+        "third": {
+            "name": "airi (1)"
+        }
+    },
+    {
+        "buzzword": "wordpress-gatsby",
+        "first": {
+            "name": "kanon"
+        },
+        "second": {
+            "name": "mami"
+        },
+        "third": {
+            "name": "kichir\u014d"
+        }
+    },
+    {
+        "buzzword": "mobile web development",
+        "first": {
+            "name": "masaru"
+        },
+        "second": {
+            "name": "nao"
+        },
+        "third": {
+            "name": "shinju"
+        }
+    },
+    {
+        "buzzword": "storybook",
+        "first": {
+            "name": "shichir\u014d"
+        },
+        "second": {
+            "name": "kazue"
+        },
+        "third": {
+            "name": "sachiko"
+        }
+    },
+    {
+        "buzzword": "blazor",
+        "first": {
+            "name": "akihiko"
+        },
+        "second": {
+            "name": "katsuhito"
+        },
+        "third": {
+            "name": "hanako"
+        }
+    },
+    {
+        "buzzword": "web performance metrics",
+        "first": {
+            "name": "mitsuaki"
+        },
+        "second": {
+            "name": "emi"
+        },
+        "third": {
+            "name": "hiroto"
+        }
+    },
+    {
+        "buzzword": "tailwind css",
+        "first": {
+            "name": "junpei"
+        },
+        "second": {
+            "name": "akio"
+        },
+        "third": {
+            "name": "ran"
+        }
+    },
+    {
+        "buzzword": "flask",
+        "first": {
+            "name": "kazue"
+        },
+        "second": {
+            "name": "k\u014dji"
+        },
+        "third": {
+            "name": "katsuo"
+        }
+    },
+    {
+        "buzzword": "docker",
+        "first": {
+            "name": "izumi"
+        },
+        "second": {
+            "name": "kaito"
+        },
+        "third": {
+            "name": "aki (2)"
+        }
+    },
+    {
+        "buzzword": "vagrant",
+        "first": {
+            "name": "ichirou"
+        },
+        "second": {
+            "name": "etsuko"
+        },
+        "third": {
+            "name": "gor\u014d"
+        }
+    },
+    {
+        "buzzword": "pyramid",
+        "first": {
+            "name": "ryuuji"
+        },
+        "second": {
+            "name": "kenta"
+        },
+        "third": {
+            "name": "airi (1)"
+        }
+    },
+    {
+        "buzzword": "play1 framework",
+        "first": {
+            "name": "shinju"
+        },
+        "second": {
+            "name": "etsuko"
+        },
+        "third": {
+            "name": "nanako"
+        }
+    },
+    {
+        "buzzword": "cakephp",
+        "first": {
+            "name": "etsuko"
+        },
+        "second": {
+            "name": "keiko"
+        },
+        "third": {
+            "name": "ryo"
+        }
+    },
+    {
+        "buzzword": "symfony",
+        "first": {
+            "name": "nobu"
+        },
+        "second": {
+            "name": "akio"
+        },
+        "third": {
+            "name": "mari (2)"
+        }
+    },
+    {
+        "buzzword": "education",
+        "first": {
+            "name": "emi"
+        },
+        "second": {
+            "name": "hanae"
+        },
+        "third": {
+            "name": "haruko"
+        }
+    },
+    {
+        "buzzword": "laravel",
+        "first": {
+            "name": "kaito"
+        },
+        "second": {
+            "name": "aiko"
+        },
+        "third": {
+            "name": "akira"
+        }
+    },
+    {
+        "buzzword": "education",
+        "first": {
+            "name": "mei (2)"
+        },
+        "second": {
+            "name": "kumiko"
+        },
+        "third": {
+            "name": "katsurou"
+        }
+    },
+    {
+        "buzzword": "rails",
+        "first": {
+            "name": "juro (2)"
+        },
+        "second": {
+            "name": "chiyo"
+        },
+        "third": {
+            "name": "hideki"
+        }
+    },
+    {
+        "buzzword": "gems",
+        "first": {
+            "name": "kanon"
+        },
+        "second": {
+            "name": "ry\u016b"
+        },
+        "third": {
+            "name": "manami"
+        }
+    },
+    {
+        "buzzword": "phalcon",
+        "first": {
+            "name": "shizuka"
+        },
+        "second": {
+            "name": "moe (2)"
+        },
+        "third": {
+            "name": "miyako"
+        }
+    },
+    {
+        "buzzword": "useful .htaccess snippets",
+        "first": {
+            "name": "mio"
+        },
+        "second": {
+            "name": "kousuke"
+        },
+        "third": {
+            "name": "hoshiko"
+        }
+    },
+    {
+        "buzzword": "nginx",
+        "first": {
+            "name": "shirou"
+        },
+        "second": {
+            "name": "shin'ya"
+        },
+        "third": {
+            "name": "aoi"
+        }
+    },
+    {
+        "buzzword": "dropwizard",
+        "first": {
+            "name": "kaito"
+        },
+        "second": {
+            "name": "kohaku"
+        },
+        "third": {
+            "name": "sh\u014dta"
+        }
+    },
+    {
+        "buzzword": "kubernetes",
+        "first": {
+            "name": "hayato"
+        },
+        "second": {
+            "name": "akari"
+        },
+        "third": {
+            "name": "kanon"
+        }
+    },
+    {
+        "buzzword": "lumen",
+        "first": {
+            "name": "hitomi"
+        },
+        "second": {
+            "name": "noboru"
+        },
+        "third": {
+            "name": "arata"
+        }
+    },
+    {
+        "buzzword": "serverless framework",
+        "first": {
+            "name": "sachiko"
+        },
+        "second": {
+            "name": "masaru"
+        },
+        "third": {
+            "name": "shichiro"
+        }
+    },
+    {
+        "buzzword": "apache wicket",
+        "first": {
+            "name": "noa (3)"
+        },
+        "second": {
+            "name": "shin'ya"
+        },
+        "third": {
+            "name": "kaede"
+        }
+    },
+    {
+        "buzzword": "vert.x",
+        "first": {
+            "name": "nori"
+        },
+        "second": {
+            "name": "kaito"
+        },
+        "third": {
+            "name": "masami"
+        }
+    },
+    {
+        "buzzword": "terraform",
+        "first": {
+            "name": "ryouta"
+        },
+        "second": {
+            "name": "hana (3)"
+        },
+        "third": {
+            "name": "souta"
+        }
+    },
+    {
+        "buzzword": "vapor",
+        "first": {
+            "name": "kosuke"
+        },
+        "second": {
+            "name": "kanon"
+        },
+        "third": {
+            "name": "ry\u016bji"
+        }
+    },
+    {
+        "buzzword": "dash",
+        "first": {
+            "name": "kyouko"
+        },
+        "second": {
+            "name": "natsumi"
+        },
+        "third": {
+            "name": "nori"
+        }
+    },
+    {
+        "buzzword": "university courses",
+        "first": {
+            "name": "akihiko"
+        },
+        "second": {
+            "name": "kasumi"
+        },
+        "third": {
+            "name": "sayuri"
+        }
+    },
+    {
+        "buzzword": "data science",
+        "first": {
+            "name": "susumu"
+        },
+        "second": {
+            "name": "aki (2)"
+        },
+        "third": {
+            "name": "momoko"
+        }
+    },
+    {
+        "buzzword": "tutorials",
+        "first": {
+            "name": "ry\u014dichi"
+        },
+        "second": {
+            "name": "jir\u014d"
+        },
+        "third": {
+            "name": "mitsuaki"
+        }
+    },
+    {
+        "buzzword": "machine learning",
+        "first": {
+            "name": "ryuu"
+        },
+        "second": {
+            "name": "shinju"
+        },
+        "third": {
+            "name": "hanz\u014d"
+        }
+    },
+    {
+        "buzzword": "tutorials",
+        "first": {
+            "name": "saki"
+        },
+        "second": {
+            "name": "hideyoshi"
+        },
+        "third": {
+            "name": "setsuko"
+        }
+    },
+    {
+        "buzzword": "ml with ruby",
+        "first": {
+            "name": "izumi"
+        },
+        "second": {
+            "name": "akari"
+        },
+        "third": {
+            "name": "mika (2)"
+        }
+    },
+    {
+        "buzzword": "core ml models",
+        "first": {
+            "name": "junko"
+        },
+        "second": {
+            "name": "souma"
+        },
+        "third": {
+            "name": "sakiko"
+        }
+    },
+    {
+        "buzzword": "h2o",
+        "first": {
+            "name": "ichirou"
+        },
+        "second": {
+            "name": "fuyuko"
+        },
+        "third": {
+            "name": "akira"
+        }
+    },
+    {
+        "buzzword": "speech and natural language processing",
+        "first": {
+            "name": "jun (2)"
+        },
+        "second": {
+            "name": "masaru"
+        },
+        "third": {
+            "name": "chiyoko"
+        }
+    },
+    {
+        "buzzword": "spanish",
+        "first": {
+            "name": "haruka"
+        },
+        "second": {
+            "name": "etsuko"
+        },
+        "third": {
+            "name": "noboru"
+        }
+    },
+    {
+        "buzzword": "nlp with ruby",
+        "first": {
+            "name": "miki"
+        },
+        "second": {
+            "name": "chiyo"
+        },
+        "third": {
+            "name": "kur\u014d"
+        }
+    },
+    {
+        "buzzword": "question answering",
+        "first": {
+            "name": "kenji"
+        },
+        "second": {
+            "name": "gorou"
+        },
+        "third": {
+            "name": "shin"
+        }
+    },
+    {
+        "buzzword": "linguistics",
+        "first": {
+            "name": "shou"
+        },
+        "second": {
+            "name": "rin"
+        },
+        "third": {
+            "name": "miyu"
+        }
+    },
+    {
+        "buzzword": "cryptography",
+        "first": {
+            "name": "sh\u014dta"
+        },
+        "second": {
+            "name": "aki (2)"
+        },
+        "third": {
+            "name": "michiko"
+        }
+    },
+    {
+        "buzzword": "papers",
+        "first": {
+            "name": "shichirou"
+        },
+        "second": {
+            "name": "kouta"
+        },
+        "third": {
+            "name": "jiro"
+        }
+    },
+    {
+        "buzzword": "computer vision",
+        "first": {
+            "name": "juro (2)"
+        },
+        "second": {
+            "name": "hiroshi"
+        },
+        "third": {
+            "name": "honoka"
+        }
+    },
+    {
+        "buzzword": "deep learning",
+        "first": {
+            "name": "akane"
+        },
+        "second": {
+            "name": "shinju"
+        },
+        "third": {
+            "name": "ran"
+        }
+    },
+    {
+        "buzzword": "tensorflow",
+        "first": {
+            "name": "kosuke"
+        },
+        "second": {
+            "name": "mika (2)"
+        },
+        "third": {
+            "name": "ayano"
+        }
+    },
+    {
+        "buzzword": "papers",
+        "first": {
+            "name": "shizuka"
+        },
+        "second": {
+            "name": "setsuko"
+        },
+        "third": {
+            "name": "katsu"
+        }
+    },
+    {
+        "buzzword": "education",
+        "first": {
+            "name": "ema (2)"
+        },
+        "second": {
+            "name": "kiyoko"
+        },
+        "third": {
+            "name": "kiyoshi"
+        }
+    },
+    {
+        "buzzword": "deep vision",
+        "first": {
+            "name": "rio (2)"
+        },
+        "second": {
+            "name": "ayane"
+        },
+        "third": {
+            "name": "sumiko"
+        }
+    },
+    {
+        "buzzword": "open source society university",
+        "first": {
+            "name": "hanako"
+        },
+        "second": {
+            "name": "nobu"
+        },
+        "third": {
+            "name": "noa (3)"
+        }
+    },
+    {
+        "buzzword": "functional programming",
+        "first": {
+            "name": "koji"
+        },
+        "second": {
+            "name": "akane"
+        },
+        "third": {
+            "name": "mami"
+        }
+    },
+    {
+        "buzzword": "empirical software engineering",
+        "first": {
+            "name": "karen (3)"
+        },
+        "second": {
+            "name": "mika (2)"
+        },
+        "third": {
+            "name": "kouji"
+        }
+    },
+    {
+        "buzzword": "static analysis & code quality",
+        "first": {
+            "name": "junpei"
+        },
+        "second": {
+            "name": "noriko"
+        },
+        "third": {
+            "name": "hoshiko"
+        }
+    },
+    {
+        "buzzword": "information retrieval",
+        "first": {
+            "name": "shichiro"
+        },
+        "second": {
+            "name": "noriko"
+        },
+        "third": {
+            "name": "kurou"
+        }
+    },
+    {
+        "buzzword": "quantum computing",
+        "first": {
+            "name": "kazuo"
+        },
+        "second": {
+            "name": "rin"
+        },
+        "third": {
+            "name": "kenzo"
+        }
+    },
+    {
+        "buzzword": "big data",
+        "first": {
+            "name": "shizuka"
+        },
+        "second": {
+            "name": "jurou"
+        },
+        "third": {
+            "name": "osamu"
+        }
+    },
+    {
+        "buzzword": "public datasets",
+        "first": {
+            "name": "ky\u014d"
+        },
+        "second": {
+            "name": "ema (2)"
+        },
+        "third": {
+            "name": "jirou"
+        }
+    },
+    {
+        "buzzword": "hadoop",
+        "first": {
+            "name": "michi (1)"
+        },
+        "second": {
+            "name": "juro (2)"
+        },
+        "third": {
+            "name": "ryuu"
+        }
+    },
+    {
+        "buzzword": "data engineering",
+        "first": {
+            "name": "kouta"
+        },
+        "second": {
+            "name": "isamu"
+        },
+        "third": {
+            "name": "sayaka"
+        }
+    },
+    {
+        "buzzword": "streaming",
+        "first": {
+            "name": "ryouichi"
+        },
+        "second": {
+            "name": "masako"
+        },
+        "third": {
+            "name": "mitsuko"
+        }
+    },
+    {
+        "buzzword": "apache spark",
+        "first": {
+            "name": "ken (2)"
+        },
+        "second": {
+            "name": "rokurou"
+        },
+        "third": {
+            "name": "ayane"
+        }
+    },
+    {
+        "buzzword": "qlik",
+        "first": {
+            "name": "ami (3)"
+        },
+        "second": {
+            "name": "hitomi"
+        },
+        "third": {
+            "name": "rina (4)"
+        }
+    },
+    {
+        "buzzword": "papers we love",
+        "first": {
+            "name": "kaori"
+        },
+        "second": {
+            "name": "masuyo"
+        },
+        "third": {
+            "name": "kenzou"
+        }
+    },
+    {
+        "buzzword": "talks",
+        "first": {
+            "name": "kohaku"
+        },
+        "second": {
+            "name": "natsuko"
+        },
+        "third": {
+            "name": "mami"
+        }
+    },
+    {
+        "buzzword": "algorithms",
+        "first": {
+            "name": "jun (2)"
+        },
+        "second": {
+            "name": "aoi"
+        },
+        "third": {
+            "name": "kokoro"
+        }
+    },
+    {
+        "buzzword": "education",
+        "first": {
+            "name": "hinata"
+        },
+        "second": {
+            "name": "mayumi (1)"
+        },
+        "third": {
+            "name": "katsuro"
+        }
+    },
+    {
+        "buzzword": "algorithm visualizations",
+        "first": {
+            "name": "naruhito"
+        },
+        "second": {
+            "name": "kokoro"
+        },
+        "third": {
+            "name": "junko"
+        }
+    },
+    {
+        "buzzword": "artificial intelligence",
+        "first": {
+            "name": "s\u014dta"
+        },
+        "second": {
+            "name": "s\u014dma"
+        },
+        "third": {
+            "name": "shinju"
+        }
+    },
+    {
+        "buzzword": "search engine optimization",
+        "first": {
+            "name": "kokoro"
+        },
+        "second": {
+            "name": "daichi"
+        },
+        "third": {
+            "name": "miku"
+        }
+    },
+    {
+        "buzzword": "competitive programming",
+        "first": {
+            "name": "ry\u014d"
+        },
+        "second": {
+            "name": "kichir\u014d"
+        },
+        "third": {
+            "name": "ry\u016bji"
+        }
+    },
+    {
+        "buzzword": "math",
+        "first": {
+            "name": "misaki"
+        },
+        "second": {
+            "name": "sayuri"
+        },
+        "third": {
+            "name": "hinata"
+        }
+    },
+    {
+        "buzzword": "recursion schemes",
+        "first": {
+            "name": "nobutoshi"
+        },
+        "second": {
+            "name": "ryuunosuke"
+        },
+        "third": {
+            "name": "shin'ichi"
+        }
+    },
+    {
+        "buzzword": "free programming books",
+        "first": {
+            "name": "mio"
+        },
+        "second": {
+            "name": "kazue"
+        },
+        "third": {
+            "name": "jurou"
+        }
+    },
+    {
+        "buzzword": "free software testing books",
+        "first": {
+            "name": "mitsuko"
+        },
+        "second": {
+            "name": "arata"
+        },
+        "third": {
+            "name": "natsumi"
+        }
+    },
+    {
+        "buzzword": "go books",
+        "first": {
+            "name": "hiroki"
+        },
+        "second": {
+            "name": "kanon"
+        },
+        "third": {
+            "name": "nori"
+        }
+    },
+    {
+        "buzzword": "r books",
+        "first": {
+            "name": "michi (1)"
+        },
+        "second": {
+            "name": "jirou"
+        },
+        "third": {
+            "name": "midori"
+        }
+    },
+    {
+        "buzzword": "mind expanding books",
+        "first": {
+            "name": "ayako"
+        },
+        "second": {
+            "name": "nanami"
+        },
+        "third": {
+            "name": "shinobu"
+        }
+    },
+    {
+        "buzzword": "book authoring",
+        "first": {
+            "name": "kouji"
+        },
+        "second": {
+            "name": "ry\u014d"
+        },
+        "third": {
+            "name": "miyako"
+        }
+    },
+    {
+        "buzzword": "elixir books",
+        "first": {
+            "name": "kyoko"
+        },
+        "second": {
+            "name": "kenzo"
+        },
+        "third": {
+            "name": "k\u014dki"
+        }
+    },
+    {
+        "buzzword": "sublime text",
+        "first": {
+            "name": "sumiko"
+        },
+        "second": {
+            "name": "nao"
+        },
+        "third": {
+            "name": "ryuuji"
+        }
+    },
+    {
+        "buzzword": "vim",
+        "first": {
+            "name": "akihiko"
+        },
+        "second": {
+            "name": "akira"
+        },
+        "third": {
+            "name": "k\u014dki"
+        }
+    },
+    {
+        "buzzword": "emacs",
+        "first": {
+            "name": "ry\u016bji"
+        },
+        "second": {
+            "name": "ry\u016bnosuke"
+        },
+        "third": {
+            "name": "nao"
+        }
+    },
+    {
+        "buzzword": "atom",
+        "first": {
+            "name": "kazuya"
+        },
+        "second": {
+            "name": "momoko"
+        },
+        "third": {
+            "name": "shiori"
+        }
+    },
+    {
+        "buzzword": "visual studio code",
+        "first": {
+            "name": "sakura"
+        },
+        "second": {
+            "name": "miki"
+        },
+        "third": {
+            "name": "hanzou"
+        }
+    },
+    {
+        "buzzword": "game development",
+        "first": {
+            "name": "akane"
+        },
+        "second": {
+            "name": "kenshin"
+        },
+        "third": {
+            "name": "miku"
+        }
+    },
+    {
+        "buzzword": "game networking",
+        "first": {
+            "name": "ry\u014dta"
+        },
+        "second": {
+            "name": "kazuya"
+        },
+        "third": {
+            "name": "katsuo"
+        }
+    },
+    {
+        "buzzword": "game talks",
+        "first": {
+            "name": "kuro"
+        },
+        "second": {
+            "name": "kasumi"
+        },
+        "third": {
+            "name": "sh\u014d"
+        }
+    },
+    {
+        "buzzword": "godot",
+        "first": {
+            "name": "rikuto"
+        },
+        "second": {
+            "name": "s\u014dma"
+        },
+        "third": {
+            "name": "daisuke"
+        }
+    },
+    {
+        "buzzword": "open source games",
+        "first": {
+            "name": "momoka"
+        },
+        "second": {
+            "name": "nobuyuki"
+        },
+        "third": {
+            "name": "masashi"
+        }
+    },
+    {
+        "buzzword": "unity",
+        "first": {
+            "name": "chinatsu"
+        },
+        "second": {
+            "name": "shota"
+        },
+        "third": {
+            "name": "shinju"
+        }
+    },
+    {
+        "buzzword": "chess",
+        "first": {
+            "name": "hikari"
+        },
+        "second": {
+            "name": "kaoru"
+        },
+        "third": {
+            "name": "kichirou"
+        }
+    },
+    {
+        "buzzword": "l\u00f6ve",
+        "first": {
+            "name": "kokoro"
+        },
+        "second": {
+            "name": "ai (1)"
+        },
+        "third": {
+            "name": "moe (2)"
+        }
+    },
+    {
+        "buzzword": "pico-8",
+        "first": {
+            "name": "hayato"
+        },
+        "second": {
+            "name": "masuyo"
+        },
+        "third": {
+            "name": "karen (3)"
+        }
+    },
+    {
+        "buzzword": "game boy development",
+        "first": {
+            "name": "karen (3)"
+        },
+        "second": {
+            "name": "katsuo"
+        },
+        "third": {
+            "name": "kei"
+        }
+    },
+    {
+        "buzzword": "construct 2",
+        "first": {
+            "name": "akio"
+        },
+        "second": {
+            "name": "hayate"
+        },
+        "third": {
+            "name": "rokur\u014d"
+        }
+    },
+    {
+        "buzzword": "gideros",
+        "first": {
+            "name": "ryouta"
+        },
+        "second": {
+            "name": "nanami"
+        },
+        "third": {
+            "name": "asami"
+        }
+    },
+    {
+        "buzzword": "minecraft",
+        "first": {
+            "name": "kei"
+        },
+        "second": {
+            "name": "sayuri"
+        },
+        "third": {
+            "name": "jurou"
+        }
+    },
+    {
+        "buzzword": "game datasets",
+        "first": {
+            "name": "sh\u014dhei"
+        },
+        "second": {
+            "name": "rikuto"
+        },
+        "third": {
+            "name": "kousuke"
+        }
+    },
+    {
+        "buzzword": "haxe game development",
+        "first": {
+            "name": "mari (2)"
+        },
+        "second": {
+            "name": "sachiko"
+        },
+        "third": {
+            "name": "ayame"
+        }
+    },
+    {
+        "buzzword": "libgdx",
+        "first": {
+            "name": "hachirou"
+        },
+        "second": {
+            "name": "kumiko"
+        },
+        "third": {
+            "name": "shinobu"
+        }
+    },
+    {
+        "buzzword": "playcanvas",
+        "first": {
+            "name": "kotone"
+        },
+        "second": {
+            "name": "mariko"
+        },
+        "third": {
+            "name": "shir\u014d"
+        }
+    },
+    {
+        "buzzword": "quick look plugins",
+        "first": {
+            "name": "hideaki"
+        },
+        "second": {
+            "name": "aki (2)"
+        },
+        "third": {
+            "name": "hachir\u014d"
+        }
+    },
+    {
+        "buzzword": "dev env",
+        "first": {
+            "name": "kiku"
+        },
+        "second": {
+            "name": "shichirou"
+        },
+        "third": {
+            "name": "masaru"
+        }
+    },
+    {
+        "buzzword": "dotfiles",
+        "first": {
+            "name": "miyu"
+        },
+        "second": {
+            "name": "ryou"
+        },
+        "third": {
+            "name": "ichir\u014d"
+        }
+    },
+    {
+        "buzzword": "shell",
+        "first": {
+            "name": "kyoko"
+        },
+        "second": {
+            "name": "kurou"
+        },
+        "third": {
+            "name": "kazuo"
+        }
+    },
+    {
+        "buzzword": "fish",
+        "first": {
+            "name": "shingo"
+        },
+        "second": {
+            "name": "mio"
+        },
+        "third": {
+            "name": "kyoko"
+        }
+    },
+    {
+        "buzzword": "command-line apps",
+        "first": {
+            "name": "midori"
+        },
+        "second": {
+            "name": "kenz\u014d"
+        },
+        "third": {
+            "name": "daichi"
+        }
+    },
+    {
+        "buzzword": "zsh plugins",
+        "first": {
+            "name": "sayaka"
+        },
+        "second": {
+            "name": "s\u014dta"
+        },
+        "third": {
+            "name": "atsuko"
+        }
+    },
+    {
+        "buzzword": "github",
+        "first": {
+            "name": "ryuunosuke"
+        },
+        "second": {
+            "name": "chiyo"
+        },
+        "third": {
+            "name": "saburo"
+        }
+    },
+    {
+        "buzzword": "browser extensions",
+        "first": {
+            "name": "mizuki"
+        },
+        "second": {
+            "name": "kiyoko"
+        },
+        "third": {
+            "name": "shouta"
+        }
+    },
+    {
+        "buzzword": "cheat sheet",
+        "first": {
+            "name": "setsuko"
+        },
+        "second": {
+            "name": "hinata"
+        },
+        "third": {
+            "name": "akemi"
+        }
+    },
+    {
+        "buzzword": "pinned gists",
+        "first": {
+            "name": "moe (2)"
+        },
+        "second": {
+            "name": "naoko"
+        },
+        "third": {
+            "name": "kazuo"
+        }
+    },
+    {
+        "buzzword": "git cheat sheet & git flow",
+        "first": {
+            "name": "miku"
+        },
+        "second": {
+            "name": "junko"
+        },
+        "third": {
+            "name": "daiki"
+        }
+    },
+    {
+        "buzzword": "git tips",
+        "first": {
+            "name": "aya (1)"
+        },
+        "second": {
+            "name": "natsuki"
+        },
+        "third": {
+            "name": "ryo"
+        }
+    },
+    {
+        "buzzword": "git add-ons",
+        "first": {
+            "name": "hideyoshi"
+        },
+        "second": {
+            "name": "aina (3)"
+        },
+        "third": {
+            "name": "hikaru"
+        }
+    },
+    {
+        "buzzword": "git hooks",
+        "first": {
+            "name": "miku"
+        },
+        "second": {
+            "name": "hideyoshi"
+        },
+        "third": {
+            "name": "ry\u014dta"
+        }
+    },
+    {
+        "buzzword": "ssh",
+        "first": {
+            "name": "kenzou"
+        },
+        "second": {
+            "name": "haruki"
+        },
+        "third": {
+            "name": "shichiro"
+        }
+    },
+    {
+        "buzzword": "foss for developers",
+        "first": {
+            "name": "hiroko"
+        },
+        "second": {
+            "name": "reina (3)"
+        },
+        "third": {
+            "name": "ryouichi"
+        }
+    },
+    {
+        "buzzword": "hyper",
+        "first": {
+            "name": "ky\u014dko"
+        },
+        "second": {
+            "name": "hiroto"
+        },
+        "third": {
+            "name": "saori"
+        }
+    },
+    {
+        "buzzword": "powershell",
+        "first": {
+            "name": "sakura"
+        },
+        "second": {
+            "name": "rei"
+        },
+        "third": {
+            "name": "kichirou"
+        }
+    },
+    {
+        "buzzword": "alfred workflows",
+        "first": {
+            "name": "jirou"
+        },
+        "second": {
+            "name": "junko"
+        },
+        "third": {
+            "name": "ayane"
+        }
+    },
+    {
+        "buzzword": "terminals are sexy",
+        "first": {
+            "name": "kohaku"
+        },
+        "second": {
+            "name": "chouko"
+        },
+        "third": {
+            "name": "natsuki"
+        }
+    },
+    {
+        "buzzword": "science fiction",
+        "first": {
+            "name": "jun'ichi"
+        },
+        "second": {
+            "name": "masahiko"
+        },
+        "third": {
+            "name": "asami"
+        }
+    },
+    {
+        "buzzword": "fantasy",
+        "first": {
+            "name": "kenji"
+        },
+        "second": {
+            "name": "kei"
+        },
+        "third": {
+            "name": "goro"
+        }
+    },
+    {
+        "buzzword": "podcasts",
+        "first": {
+            "name": "miki"
+        },
+        "second": {
+            "name": "hikari"
+        },
+        "third": {
+            "name": "katsuro"
+        }
+    },
+    {
+        "buzzword": "email newsletters",
+        "first": {
+            "name": "sabur\u014d"
+        },
+        "second": {
+            "name": "ry\u016bji"
+        },
+        "third": {
+            "name": "kazuki"
+        }
+    },
+    {
+        "buzzword": "it quotes",
+        "first": {
+            "name": "emi"
+        },
+        "second": {
+            "name": "haruko"
+        },
+        "third": {
+            "name": "miki"
+        }
+    },
+    {
+        "buzzword": "database",
+        "first": {
+            "name": "ryuunosuke"
+        },
+        "second": {
+            "name": "hiraku"
+        },
+        "third": {
+            "name": "asami"
+        }
+    },
+    {
+        "buzzword": "mysql",
+        "first": {
+            "name": "hayate"
+        },
+        "second": {
+            "name": "ryuuji"
+        },
+        "third": {
+            "name": "kanna"
+        }
+    },
+    {
+        "buzzword": "sqlalchemy",
+        "first": {
+            "name": "moriko"
+        },
+        "second": {
+            "name": "shouta"
+        },
+        "third": {
+            "name": "hikaru"
+        }
+    },
+    {
+        "buzzword": "influxdb",
+        "first": {
+            "name": "k\u014dji"
+        },
+        "second": {
+            "name": "kyoko"
+        },
+        "third": {
+            "name": "natsuko"
+        }
+    },
+    {
+        "buzzword": "neo4j",
+        "first": {
+            "name": "ayumu"
+        },
+        "second": {
+            "name": "shingo"
+        },
+        "third": {
+            "name": "kichiro"
+        }
+    },
+    {
+        "buzzword": "mongodb",
+        "first": {
+            "name": "kosuke"
+        },
+        "second": {
+            "name": "naoko"
+        },
+        "third": {
+            "name": "nao"
+        }
+    },
+    {
+        "buzzword": "rethinkdb",
+        "first": {
+            "name": "shun (2)"
+        },
+        "second": {
+            "name": "midori"
+        },
+        "third": {
+            "name": "akemi"
+        }
+    },
+    {
+        "buzzword": "tinkerpop",
+        "first": {
+            "name": "akari"
+        },
+        "second": {
+            "name": "hotaru"
+        },
+        "third": {
+            "name": "rin"
+        }
+    },
+    {
+        "buzzword": "postgresql",
+        "first": {
+            "name": "akane"
+        },
+        "second": {
+            "name": "rikuto"
+        },
+        "third": {
+            "name": "juro (2)"
+        }
+    },
+    {
+        "buzzword": "couchdb",
+        "first": {
+            "name": "chihiro"
+        },
+        "second": {
+            "name": "satomi"
+        },
+        "third": {
+            "name": "ryuu"
+        }
+    },
+    {
+        "buzzword": "hbase",
+        "first": {
+            "name": "honoka"
+        },
+        "second": {
+            "name": "midori"
+        },
+        "third": {
+            "name": "nao"
+        }
+    },
+    {
+        "buzzword": "nosql guides",
+        "first": {
+            "name": "kaito"
+        },
+        "second": {
+            "name": "saburou"
+        },
+        "third": {
+            "name": "shun (2)"
+        }
+    },
+    {
+        "buzzword": "creative commons media",
+        "first": {
+            "name": "rin"
+        },
+        "second": {
+            "name": "aina (3)"
+        },
+        "third": {
+            "name": "kichiro"
+        }
+    },
+    {
+        "buzzword": "fonts",
+        "first": {
+            "name": "hayato"
+        },
+        "second": {
+            "name": "mika (2)"
+        },
+        "third": {
+            "name": "kiyoshi"
+        }
+    },
+    {
+        "buzzword": "codeface",
+        "first": {
+            "name": "kimiko"
+        },
+        "second": {
+            "name": "miki"
+        },
+        "third": {
+            "name": "kousuke"
+        }
+    },
+    {
+        "buzzword": "stock resources",
+        "first": {
+            "name": "minoru"
+        },
+        "second": {
+            "name": "kurou"
+        },
+        "third": {
+            "name": "hiroko"
+        }
+    },
+    {
+        "buzzword": "gif",
+        "first": {
+            "name": "ema (2)"
+        },
+        "second": {
+            "name": "noriko"
+        },
+        "third": {
+            "name": "jurou"
+        }
+    },
+    {
+        "buzzword": "music",
+        "first": {
+            "name": "ryota"
+        },
+        "second": {
+            "name": "jun (2)"
+        },
+        "third": {
+            "name": "ryouichi"
+        }
+    },
+    {
+        "buzzword": "open source documents",
+        "first": {
+            "name": "manami"
+        },
+        "second": {
+            "name": "kumiko"
+        },
+        "third": {
+            "name": "koji"
+        }
+    },
+    {
+        "buzzword": "audio visualization",
+        "first": {
+            "name": "souma"
+        },
+        "second": {
+            "name": "sachiko"
+        },
+        "third": {
+            "name": "naoko"
+        }
+    },
+    {
+        "buzzword": "broadcasting",
+        "first": {
+            "name": "sabur\u014d"
+        },
+        "second": {
+            "name": "ryuu"
+        },
+        "third": {
+            "name": "masuyo"
+        }
+    },
+    {
+        "buzzword": "pixel art",
+        "first": {
+            "name": "hoshiko"
+        },
+        "second": {
+            "name": "hayato"
+        },
+        "third": {
+            "name": "saori"
+        }
+    },
+    {
+        "buzzword": "ffmpeg",
+        "first": {
+            "name": "akimitsu"
+        },
+        "second": {
+            "name": "hachir\u014d"
+        },
+        "third": {
+            "name": "masaru"
+        }
+    },
+    {
+        "buzzword": "icons",
+        "first": {
+            "name": "haruna"
+        },
+        "second": {
+            "name": "masaru"
+        },
+        "third": {
+            "name": "ichir\u014d"
+        }
+    },
+    {
+        "buzzword": "cli workshoppers",
+        "first": {
+            "name": "ema (2)"
+        },
+        "second": {
+            "name": "minato"
+        },
+        "third": {
+            "name": "hayato"
+        }
+    },
+    {
+        "buzzword": "learn to program",
+        "first": {
+            "name": "hachirou"
+        },
+        "second": {
+            "name": "kotone"
+        },
+        "third": {
+            "name": "noriaki"
+        }
+    },
+    {
+        "buzzword": "speaking",
+        "first": {
+            "name": "ryuunosuke"
+        },
+        "second": {
+            "name": "hiraku"
+        },
+        "third": {
+            "name": "kichir\u014d"
+        }
+    },
+    {
+        "buzzword": "tech videos",
+        "first": {
+            "name": "kichiro"
+        },
+        "second": {
+            "name": "satomi"
+        },
+        "third": {
+            "name": "ryouichi"
+        }
+    },
+    {
+        "buzzword": "dive into machine learning",
+        "first": {
+            "name": "sora"
+        },
+        "second": {
+            "name": "momoko"
+        },
+        "third": {
+            "name": "jirou"
+        }
+    },
+    {
+        "buzzword": "computer history",
+        "first": {
+            "name": "katsu"
+        },
+        "second": {
+            "name": "juro (2)"
+        },
+        "third": {
+            "name": "ryoichi"
+        }
+    },
+    {
+        "buzzword": "programming for kids",
+        "first": {
+            "name": "megumi"
+        },
+        "second": {
+            "name": "ryuunosuke"
+        },
+        "third": {
+            "name": "nobuyuki"
+        }
+    },
+    {
+        "buzzword": "educational games",
+        "first": {
+            "name": "akimitsu"
+        },
+        "second": {
+            "name": "katsuo"
+        },
+        "third": {
+            "name": "kenji"
+        }
+    },
+    {
+        "buzzword": "javascript learning",
+        "first": {
+            "name": "hideaki"
+        },
+        "second": {
+            "name": "miyu"
+        },
+        "third": {
+            "name": "haruna"
+        }
+    },
+    {
+        "buzzword": "css learning",
+        "first": {
+            "name": "midori"
+        },
+        "second": {
+            "name": "shigeru"
+        },
+        "third": {
+            "name": "reina (3)"
+        }
+    },
+    {
+        "buzzword": "product management",
+        "first": {
+            "name": "k\u014dsuke"
+        },
+        "second": {
+            "name": "akira"
+        },
+        "third": {
+            "name": "saki"
+        }
+    },
+    {
+        "buzzword": "roadmaps",
+        "first": {
+            "name": "jirou"
+        },
+        "second": {
+            "name": "shin'ichi"
+        },
+        "third": {
+            "name": "shun (2)"
+        }
+    },
+    {
+        "buzzword": "application security",
+        "first": {
+            "name": "minato"
+        },
+        "second": {
+            "name": "shin"
+        },
+        "third": {
+            "name": "shirou"
+        }
+    },
+    {
+        "buzzword": "security",
+        "first": {
+            "name": "kiku"
+        },
+        "second": {
+            "name": "hibiki"
+        },
+        "third": {
+            "name": "k\u014dta"
+        }
+    },
+    {
+        "buzzword": "ctf",
+        "first": {
+            "name": "shion"
+        },
+        "second": {
+            "name": "shion"
+        },
+        "third": {
+            "name": "kenshin"
+        }
+    },
+    {
+        "buzzword": "malware analysis",
+        "first": {
+            "name": "akiko"
+        },
+        "second": {
+            "name": "kousuke"
+        },
+        "third": {
+            "name": "junko"
+        }
+    },
+    {
+        "buzzword": "android security",
+        "first": {
+            "name": "jir\u014d"
+        },
+        "second": {
+            "name": "hideki"
+        },
+        "third": {
+            "name": "kei"
+        }
+    },
+    {
+        "buzzword": "hacking",
+        "first": {
+            "name": "kaede"
+        },
+        "second": {
+            "name": "masako"
+        },
+        "third": {
+            "name": "satomi"
+        }
+    },
+    {
+        "buzzword": "honeypots",
+        "first": {
+            "name": "makoto"
+        },
+        "second": {
+            "name": "naoki"
+        },
+        "third": {
+            "name": "ichirou"
+        }
+    },
+    {
+        "buzzword": "incident response",
+        "first": {
+            "name": "mio"
+        },
+        "second": {
+            "name": "ami (3)"
+        },
+        "third": {
+            "name": "nobu"
+        }
+    },
+    {
+        "buzzword": "vehicle security and car hacking",
+        "first": {
+            "name": "sabur\u014d"
+        },
+        "second": {
+            "name": "hoshiko"
+        },
+        "third": {
+            "name": "aki (2)"
+        }
+    },
+    {
+        "buzzword": "web security",
+        "first": {
+            "name": "kiyoko"
+        },
+        "second": {
+            "name": "rei"
+        },
+        "third": {
+            "name": "souta"
+        }
+    },
+    {
+        "buzzword": "lockpicking",
+        "first": {
+            "name": "shun (2)"
+        },
+        "second": {
+            "name": "sumiko"
+        },
+        "third": {
+            "name": "sakura"
+        }
+    },
+    {
+        "buzzword": "cybersecurity blue team",
+        "first": {
+            "name": "akihito"
+        },
+        "second": {
+            "name": "koharu"
+        },
+        "third": {
+            "name": "satomi"
+        }
+    },
+    {
+        "buzzword": "fuzzing",
+        "first": {
+            "name": "kanako"
+        },
+        "second": {
+            "name": "katsu"
+        },
+        "third": {
+            "name": "chou"
+        }
+    },
+    {
+        "buzzword": "embedded and iot security",
+        "first": {
+            "name": "miku"
+        },
+        "second": {
+            "name": "naoko"
+        },
+        "third": {
+            "name": "hotaru"
+        }
+    },
+    {
+        "buzzword": "gdpr",
+        "first": {
+            "name": "chihiro"
+        },
+        "second": {
+            "name": "jir\u014d"
+        },
+        "third": {
+            "name": "kumiko"
+        }
+    },
+    {
+        "buzzword": "umbraco",
+        "first": {
+            "name": "manami"
+        },
+        "second": {
+            "name": "ryouta"
+        },
+        "third": {
+            "name": "kasumi"
+        }
+    },
+    {
+        "buzzword": "refinery cms",
+        "first": {
+            "name": "shion"
+        },
+        "second": {
+            "name": "kiyoko"
+        },
+        "third": {
+            "name": "kyou"
+        }
+    },
+    {
+        "buzzword": "wagtail",
+        "first": {
+            "name": "rin"
+        },
+        "second": {
+            "name": "moe (2)"
+        },
+        "third": {
+            "name": "rokur\u014d"
+        }
+    },
+    {
+        "buzzword": "textpattern",
+        "first": {
+            "name": "akimitsu"
+        },
+        "second": {
+            "name": "kenzou"
+        },
+        "third": {
+            "name": "kichiro"
+        }
+    },
+    {
+        "buzzword": "drupal",
+        "first": {
+            "name": "kumiko"
+        },
+        "second": {
+            "name": "shiro"
+        },
+        "third": {
+            "name": "akihiko"
+        }
+    },
+    {
+        "buzzword": "craft cms",
+        "first": {
+            "name": "chinatsu"
+        },
+        "second": {
+            "name": "aya (1)"
+        },
+        "third": {
+            "name": "makoto"
+        }
+    },
+    {
+        "buzzword": "robotics",
+        "first": {
+            "name": "rokur\u014d"
+        },
+        "second": {
+            "name": "rei"
+        },
+        "third": {
+            "name": "ichirou"
+        }
+    },
+    {
+        "buzzword": "internet of things",
+        "first": {
+            "name": "shirou"
+        },
+        "second": {
+            "name": "minako"
+        },
+        "third": {
+            "name": "honoka"
+        }
+    },
+    {
+        "buzzword": "electronics",
+        "first": {
+            "name": "ayako"
+        },
+        "second": {
+            "name": "katsu"
+        },
+        "third": {
+            "name": "nanako"
+        }
+    },
+    {
+        "buzzword": "bluetooth beacons",
+        "first": {
+            "name": "junpei"
+        },
+        "second": {
+            "name": "rio (2)"
+        },
+        "third": {
+            "name": "riko"
+        }
+    },
+    {
+        "buzzword": "electric guitar specifications",
+        "first": {
+            "name": "jun (2)"
+        },
+        "second": {
+            "name": "haruto"
+        },
+        "third": {
+            "name": "kichir\u014d"
+        }
+    },
+    {
+        "buzzword": "open companies",
+        "first": {
+            "name": "riku (2)"
+        },
+        "second": {
+            "name": "sho"
+        },
+        "third": {
+            "name": "hayato"
+        }
+    },
+    {
+        "buzzword": "places to post your startup",
+        "first": {
+            "name": "mitsuaki"
+        },
+        "second": {
+            "name": "momoko"
+        },
+        "third": {
+            "name": "ry\u016b"
+        }
+    },
+    {
+        "buzzword": "okr methodology",
+        "first": {
+            "name": "cho"
+        },
+        "second": {
+            "name": "kazuya"
+        },
+        "third": {
+            "name": "mitsuaki"
+        }
+    },
+    {
+        "buzzword": "leading and managing",
+        "first": {
+            "name": "ami (3)"
+        },
+        "second": {
+            "name": "k\u014dsuke"
+        },
+        "third": {
+            "name": "akari"
+        }
+    },
+    {
+        "buzzword": "indie",
+        "first": {
+            "name": "chikako"
+        },
+        "second": {
+            "name": "hikari"
+        },
+        "third": {
+            "name": "midori"
+        }
+    },
+    {
+        "buzzword": "tools of the trade",
+        "first": {
+            "name": "ryouta"
+        },
+        "second": {
+            "name": "katsuo"
+        },
+        "third": {
+            "name": "s\u014dta"
+        }
+    },
+    {
+        "buzzword": "clean tech",
+        "first": {
+            "name": "hideki"
+        },
+        "second": {
+            "name": "k\u014dji"
+        },
+        "third": {
+            "name": "atsushi"
+        }
+    },
+    {
+        "buzzword": "wardley maps",
+        "first": {
+            "name": "ryouta"
+        },
+        "second": {
+            "name": "ayako"
+        },
+        "third": {
+            "name": "moriko"
+        }
+    },
+    {
+        "buzzword": "slack",
+        "first": {
+            "name": "ken (2)"
+        },
+        "second": {
+            "name": "daiki"
+        },
+        "third": {
+            "name": "saburo"
+        }
+    },
+    {
+        "buzzword": "communities",
+        "first": {
+            "name": "nanami"
+        },
+        "second": {
+            "name": "chika (2)"
+        },
+        "third": {
+            "name": "hana (3)"
+        }
+    },
+    {
+        "buzzword": "remote jobs",
+        "first": {
+            "name": "kohaku"
+        },
+        "second": {
+            "name": "ry\u016bnosuke"
+        },
+        "third": {
+            "name": "hachirou"
+        }
+    },
+    {
+        "buzzword": "productivity",
+        "first": {
+            "name": "mayumi (1)"
+        },
+        "second": {
+            "name": "sakurako"
+        },
+        "third": {
+            "name": "ayano"
+        }
+    },
+    {
+        "buzzword": "niche job boards",
+        "first": {
+            "name": "kichir\u014d"
+        },
+        "second": {
+            "name": "masako"
+        },
+        "third": {
+            "name": "kiku"
+        }
+    },
+    {
+        "buzzword": "programming interviews",
+        "first": {
+            "name": "rokur\u014d"
+        },
+        "second": {
+            "name": "nobuko"
+        },
+        "third": {
+            "name": "nanako"
+        }
+    },
+    {
+        "buzzword": "code review",
+        "first": {
+            "name": "shiro"
+        },
+        "second": {
+            "name": "rei"
+        },
+        "third": {
+            "name": "isamu"
+        }
+    },
+    {
+        "buzzword": "software-defined networking",
+        "first": {
+            "name": "hiroko"
+        },
+        "second": {
+            "name": "naruhito"
+        },
+        "third": {
+            "name": "mei (2)"
+        }
+    },
+    {
+        "buzzword": "network analysis",
+        "first": {
+            "name": "mariko"
+        },
+        "second": {
+            "name": "miki"
+        },
+        "third": {
+            "name": "atsushi"
+        }
+    },
+    {
+        "buzzword": "pcaptools",
+        "first": {
+            "name": "rei"
+        },
+        "second": {
+            "name": "kazuya"
+        },
+        "third": {
+            "name": "cho"
+        }
+    },
+    {
+        "buzzword": "bitcoin",
+        "first": {
+            "name": "shingo"
+        },
+        "second": {
+            "name": "saburo"
+        },
+        "third": {
+            "name": "ichirou"
+        }
+    },
+    {
+        "buzzword": "ripple",
+        "first": {
+            "name": "saburou"
+        },
+        "second": {
+            "name": "riko"
+        },
+        "third": {
+            "name": "hibiki"
+        }
+    },
+    {
+        "buzzword": "non-financial blockchain",
+        "first": {
+            "name": "shingo"
+        },
+        "second": {
+            "name": "minoru"
+        },
+        "third": {
+            "name": "ichir\u014d"
+        }
+    },
+    {
+        "buzzword": "mastodon",
+        "first": {
+            "name": "nori"
+        },
+        "second": {
+            "name": "shizuka"
+        },
+        "third": {
+            "name": "honoka"
+        }
+    },
+    {
+        "buzzword": "ethereum",
+        "first": {
+            "name": "masaru"
+        },
+        "second": {
+            "name": "daisuke"
+        },
+        "third": {
+            "name": "satomi"
+        }
+    },
+    {
+        "buzzword": "blockchain ai",
+        "first": {
+            "name": "shingo"
+        },
+        "second": {
+            "name": "cho"
+        },
+        "third": {
+            "name": "etsuko"
+        }
+    },
+    {
+        "buzzword": "eosio",
+        "first": {
+            "name": "kasumi"
+        },
+        "second": {
+            "name": "sayuri"
+        },
+        "third": {
+            "name": "momoko"
+        }
+    },
+    {
+        "buzzword": "computational neuroscience",
+        "first": {
+            "name": "kurou"
+        },
+        "second": {
+            "name": "nana (2)"
+        },
+        "third": {
+            "name": "haruka"
+        }
+    },
+    {
+        "buzzword": "digital history",
+        "first": {
+            "name": "moriko"
+        },
+        "second": {
+            "name": "nobutoshi"
+        },
+        "third": {
+            "name": "kasumi"
+        }
+    },
+    {
+        "buzzword": "json",
+        "first": {
+            "name": "moe (2)"
+        },
+        "second": {
+            "name": "katsuro"
+        },
+        "third": {
+            "name": "atsuko"
+        }
+    },
+    {
+        "buzzword": "geojson",
+        "first": {
+            "name": "ry\u014dichi"
+        },
+        "second": {
+            "name": "k\u014dta"
+        },
+        "third": {
+            "name": "miki"
+        }
+    },
+    {
+        "buzzword": "datasets",
+        "first": {
+            "name": "sh\u014dta"
+        },
+        "second": {
+            "name": "ry\u016bji"
+        },
+        "third": {
+            "name": "michiko"
+        }
+    },
+    {
+        "buzzword": "csv",
+        "first": {
+            "name": "miki"
+        },
+        "second": {
+            "name": "haruki"
+        },
+        "third": {
+            "name": "kazuki"
+        }
+    },
+    {
+        "buzzword": "discounts for student developers",
+        "first": {
+            "name": "hachiro"
+        },
+        "second": {
+            "name": "moe (2)"
+        },
+        "third": {
+            "name": "chika (2)"
+        }
+    },
+    {
+        "buzzword": "sysadmin",
+        "first": {
+            "name": "moe (2)"
+        },
+        "second": {
+            "name": "ryuuji"
+        },
+        "third": {
+            "name": "emi"
+        }
+    },
+    {
+        "buzzword": "radio",
+        "first": {
+            "name": "ken'ichi"
+        },
+        "second": {
+            "name": "atsushi"
+        },
+        "third": {
+            "name": "akira"
+        }
+    },
+    {
+        "buzzword": "awesome",
+        "first": {
+            "name": "fuyuko"
+        },
+        "second": {
+            "name": "akihiko"
+        },
+        "third": {
+            "name": "rokur\u014d"
+        }
+    },
+    {
+        "buzzword": "analytics",
+        "first": {
+            "name": "chihiro"
+        },
+        "second": {
+            "name": "k\u014dki"
+        },
+        "third": {
+            "name": "sh\u014dta"
+        }
+    },
+    {
+        "buzzword": "rest",
+        "first": {
+            "name": "nao"
+        },
+        "second": {
+            "name": "hana (3)"
+        },
+        "third": {
+            "name": "aimi"
+        }
+    },
+    {
+        "buzzword": "selenium",
+        "first": {
+            "name": "cho"
+        },
+        "second": {
+            "name": "shigeru"
+        },
+        "third": {
+            "name": "akane"
+        }
+    },
+    {
+        "buzzword": "appium",
+        "first": {
+            "name": "shingo"
+        },
+        "second": {
+            "name": "midori"
+        },
+        "third": {
+            "name": "cho"
+        }
+    },
+    {
+        "buzzword": "continuous integration and continuous delivery",
+        "first": {
+            "name": "setsuko"
+        },
+        "second": {
+            "name": "mei (2)"
+        },
+        "third": {
+            "name": "nobutoshi"
+        }
+    },
+    {
+        "buzzword": "services engineering",
+        "first": {
+            "name": "midori"
+        },
+        "second": {
+            "name": "hayato"
+        },
+        "third": {
+            "name": "cho"
+        }
+    },
+    {
+        "buzzword": "free for developers",
+        "first": {
+            "name": "ryota"
+        },
+        "second": {
+            "name": "hachir\u014d"
+        },
+        "third": {
+            "name": "saburo"
+        }
+    },
+    {
+        "buzzword": "answers",
+        "first": {
+            "name": "katsu"
+        },
+        "second": {
+            "name": "asami"
+        },
+        "third": {
+            "name": "noriaki"
+        }
+    },
+    {
+        "buzzword": "sketch",
+        "first": {
+            "name": "saki"
+        },
+        "second": {
+            "name": "sho"
+        },
+        "third": {
+            "name": "s\u014dta"
+        }
+    },
+    {
+        "buzzword": "boilerplate projects",
+        "first": {
+            "name": "nobuko"
+        },
+        "second": {
+            "name": "hoshiko"
+        },
+        "third": {
+            "name": "nobuko"
+        }
+    },
+    {
+        "buzzword": "readme",
+        "first": {
+            "name": "chinatsu"
+        },
+        "second": {
+            "name": "sumiko"
+        },
+        "third": {
+            "name": "sakurako"
+        }
+    },
+    {
+        "buzzword": "design and development guides",
+        "first": {
+            "name": "ayako"
+        },
+        "second": {
+            "name": "hitomi"
+        },
+        "third": {
+            "name": "naruhito"
+        }
+    },
+    {
+        "buzzword": "software engineering blogs",
+        "first": {
+            "name": "hanz\u014d"
+        },
+        "second": {
+            "name": "shin"
+        },
+        "third": {
+            "name": "asuka"
+        }
+    },
+    {
+        "buzzword": "self hosted",
+        "first": {
+            "name": "mitsuko"
+        },
+        "second": {
+            "name": "manami"
+        },
+        "third": {
+            "name": "isamu"
+        }
+    },
+    {
+        "buzzword": "foss production apps",
+        "first": {
+            "name": "shin"
+        },
+        "second": {
+            "name": "ryuuji"
+        },
+        "third": {
+            "name": "s\u014dma"
+        }
+    },
+    {
+        "buzzword": "gulp",
+        "first": {
+            "name": "moriko"
+        },
+        "second": {
+            "name": "shingo"
+        },
+        "third": {
+            "name": "natsuko"
+        }
+    },
+    {
+        "buzzword": "ama",
+        "first": {
+            "name": "ayame"
+        },
+        "second": {
+            "name": "koharu"
+        },
+        "third": {
+            "name": "hachirou"
+        }
+    },
+    {
+        "buzzword": "answers",
+        "first": {
+            "name": "shizuka"
+        },
+        "second": {
+            "name": "ryou"
+        },
+        "third": {
+            "name": "ichir\u014d"
+        }
+    },
+    {
+        "buzzword": "open source photography",
+        "first": {
+            "name": "ayumu"
+        },
+        "second": {
+            "name": "hideaki"
+        },
+        "third": {
+            "name": "miku"
+        }
+    },
+    {
+        "buzzword": "opengl",
+        "first": {
+            "name": "asami"
+        },
+        "second": {
+            "name": "daichi"
+        },
+        "third": {
+            "name": "sota"
+        }
+    },
+    {
+        "buzzword": "graphql",
+        "first": {
+            "name": "karen (3)"
+        },
+        "second": {
+            "name": "itsuki"
+        },
+        "third": {
+            "name": "ayumu"
+        }
+    },
+    {
+        "buzzword": "transit",
+        "first": {
+            "name": "ichir\u014d"
+        },
+        "second": {
+            "name": "shinju"
+        },
+        "third": {
+            "name": "koji"
+        }
+    },
+    {
+        "buzzword": "research tools",
+        "first": {
+            "name": "nobu"
+        },
+        "second": {
+            "name": "ky\u014d"
+        },
+        "third": {
+            "name": "kaito"
+        }
+    },
+    {
+        "buzzword": "data visualization",
+        "first": {
+            "name": "izumi"
+        },
+        "second": {
+            "name": "moe (2)"
+        },
+        "third": {
+            "name": "izumi"
+        }
+    },
+    {
+        "buzzword": "social media share links",
+        "first": {
+            "name": "cho"
+        },
+        "second": {
+            "name": "mitsuko"
+        },
+        "third": {
+            "name": "shin"
+        }
+    },
+    {
+        "buzzword": "microservices",
+        "first": {
+            "name": "s\u014dma"
+        },
+        "second": {
+            "name": "reina (3)"
+        },
+        "third": {
+            "name": "mariko"
+        }
+    },
+    {
+        "buzzword": "unicode",
+        "first": {
+            "name": "akari"
+        },
+        "second": {
+            "name": "rio (2)"
+        },
+        "third": {
+            "name": "etsuko"
+        }
+    },
+    {
+        "buzzword": "code points",
+        "first": {
+            "name": "masashi"
+        },
+        "second": {
+            "name": "hachiro"
+        },
+        "third": {
+            "name": "reina (3)"
+        }
+    },
+    {
+        "buzzword": "beginner-friendly projects",
+        "first": {
+            "name": "naoki"
+        },
+        "second": {
+            "name": "hiroko"
+        },
+        "third": {
+            "name": "miyu"
+        }
+    },
+    {
+        "buzzword": "katas",
+        "first": {
+            "name": "sakiko"
+        },
+        "second": {
+            "name": "ayano"
+        },
+        "third": {
+            "name": "mei (2)"
+        }
+    },
+    {
+        "buzzword": "tools for activism",
+        "first": {
+            "name": "ai (1)"
+        },
+        "second": {
+            "name": "ayaka"
+        },
+        "third": {
+            "name": "masako"
+        }
+    },
+    {
+        "buzzword": "citizen science",
+        "first": {
+            "name": "ai (1)"
+        },
+        "second": {
+            "name": "karen (3)"
+        },
+        "third": {
+            "name": "naomi (2)"
+        }
+    },
+    {
+        "buzzword": "tap",
+        "first": {
+            "name": "ryuuji"
+        },
+        "second": {
+            "name": "shou"
+        },
+        "third": {
+            "name": "ichir\u014d"
+        }
+    },
+    {
+        "buzzword": "mqtt",
+        "first": {
+            "name": "shiro"
+        },
+        "second": {
+            "name": "sh\u014dhei"
+        },
+        "third": {
+            "name": "sh\u014d"
+        }
+    },
+    {
+        "buzzword": "hacking spots",
+        "first": {
+            "name": "asuka"
+        },
+        "second": {
+            "name": "katsurou"
+        },
+        "third": {
+            "name": "nobuko"
+        }
+    },
+    {
+        "buzzword": "for girls",
+        "first": {
+            "name": "goro"
+        },
+        "second": {
+            "name": "kazuo"
+        },
+        "third": {
+            "name": "nobu"
+        }
+    },
+    {
+        "buzzword": "vorpal",
+        "first": {
+            "name": "akimitsu"
+        },
+        "second": {
+            "name": "shin"
+        },
+        "third": {
+            "name": "izumi"
+        }
+    },
+    {
+        "buzzword": "vulkan",
+        "first": {
+            "name": "ryota"
+        },
+        "second": {
+            "name": "aina (3)"
+        },
+        "third": {
+            "name": "rokurou"
+        }
+    },
+    {
+        "buzzword": "latex",
+        "first": {
+            "name": "emi"
+        },
+        "second": {
+            "name": "kouki"
+        },
+        "third": {
+            "name": "katsuo"
+        }
+    },
+    {
+        "buzzword": "economics",
+        "first": {
+            "name": "akari"
+        },
+        "second": {
+            "name": "kur\u014d"
+        },
+        "third": {
+            "name": "kaori"
+        }
+    },
+    {
+        "buzzword": "funny markov chains",
+        "first": {
+            "name": "izumi"
+        },
+        "second": {
+            "name": "kyouko"
+        },
+        "third": {
+            "name": "akihito"
+        }
+    },
+    {
+        "buzzword": "bioinformatics",
+        "first": {
+            "name": "jirou"
+        },
+        "second": {
+            "name": "ryouichi"
+        },
+        "third": {
+            "name": "satomi"
+        }
+    },
+    {
+        "buzzword": "cheminformatics",
+        "first": {
+            "name": "mari (2)"
+        },
+        "second": {
+            "name": "naoko"
+        },
+        "third": {
+            "name": "nobuyuki"
+        }
+    },
+    {
+        "buzzword": "colorful",
+        "first": {
+            "name": "chiyoko"
+        },
+        "second": {
+            "name": "hayate"
+        },
+        "third": {
+            "name": "hikaru"
+        }
+    },
+    {
+        "buzzword": "steam",
+        "first": {
+            "name": "nobu"
+        },
+        "second": {
+            "name": "akari"
+        },
+        "third": {
+            "name": "shichir\u014d"
+        }
+    },
+    {
+        "buzzword": "bots",
+        "first": {
+            "name": "mizuki"
+        },
+        "second": {
+            "name": "natsuko"
+        },
+        "third": {
+            "name": "ema (2)"
+        }
+    },
+    {
+        "buzzword": "site reliability engineering",
+        "first": {
+            "name": "masami"
+        },
+        "second": {
+            "name": "asami"
+        },
+        "third": {
+            "name": "hiraku"
+        }
+    },
+    {
+        "buzzword": "empathy in engineering",
+        "first": {
+            "name": "shouhei"
+        },
+        "second": {
+            "name": "rio (2)"
+        },
+        "third": {
+            "name": "shichiro"
+        }
+    },
+    {
+        "buzzword": "dtrace",
+        "first": {
+            "name": "koharu"
+        },
+        "second": {
+            "name": "nobu"
+        },
+        "third": {
+            "name": "kenshin"
+        }
+    },
+    {
+        "buzzword": "userscripts",
+        "first": {
+            "name": "minako"
+        },
+        "second": {
+            "name": "izumi"
+        },
+        "third": {
+            "name": "ry\u016bji"
+        }
+    },
+    {
+        "buzzword": "pok\u00e9mon",
+        "first": {
+            "name": "mariko"
+        },
+        "second": {
+            "name": "ryuuji"
+        },
+        "third": {
+            "name": "miku"
+        }
+    },
+    {
+        "buzzword": "chatops",
+        "first": {
+            "name": "ayumu"
+        },
+        "second": {
+            "name": "kyoko"
+        },
+        "third": {
+            "name": "midori"
+        }
+    },
+    {
+        "buzzword": "falsehood",
+        "first": {
+            "name": "masaru"
+        },
+        "second": {
+            "name": "nobutoshi"
+        },
+        "third": {
+            "name": "nana (2)"
+        }
+    },
+    {
+        "buzzword": "domain-driven design",
+        "first": {
+            "name": "aoi"
+        },
+        "second": {
+            "name": "hina"
+        },
+        "third": {
+            "name": "jun (2)"
+        }
+    },
+    {
+        "buzzword": "quantified self",
+        "first": {
+            "name": "kotone"
+        },
+        "second": {
+            "name": "haruko"
+        },
+        "third": {
+            "name": "natsumi"
+        }
+    },
+    {
+        "buzzword": "saltstack",
+        "first": {
+            "name": "ren"
+        },
+        "second": {
+            "name": "noriko"
+        },
+        "third": {
+            "name": "shinobu"
+        }
+    },
+    {
+        "buzzword": "web design",
+        "first": {
+            "name": "ry\u014d"
+        },
+        "second": {
+            "name": "ryuu"
+        },
+        "third": {
+            "name": "jun (2)"
+        }
+    },
+    {
+        "buzzword": "jmeter",
+        "first": {
+            "name": "shion"
+        },
+        "second": {
+            "name": "hideaki"
+        },
+        "third": {
+            "name": "ayano"
+        }
+    },
+    {
+        "buzzword": "creative coding",
+        "first": {
+            "name": "kaito"
+        },
+        "second": {
+            "name": "hikari"
+        },
+        "third": {
+            "name": "mizuki"
+        }
+    },
+    {
+        "buzzword": "no-login web apps",
+        "first": {
+            "name": "shirou"
+        },
+        "second": {
+            "name": "naoki"
+        },
+        "third": {
+            "name": "haruna"
+        }
+    },
+    {
+        "buzzword": "testing",
+        "first": {
+            "name": "keiko"
+        },
+        "second": {
+            "name": "shiro"
+        },
+        "third": {
+            "name": "ryoichi"
+        }
+    },
+    {
+        "buzzword": "free software",
+        "first": {
+            "name": "momoko"
+        },
+        "second": {
+            "name": "koji"
+        },
+        "third": {
+            "name": "jiro"
+        }
+    },
+    {
+        "buzzword": "framer",
+        "first": {
+            "name": "miki"
+        },
+        "second": {
+            "name": "hideaki"
+        },
+        "third": {
+            "name": "ryoichi"
+        }
+    },
+    {
+        "buzzword": "markdown",
+        "first": {
+            "name": "chou"
+        },
+        "second": {
+            "name": "moriko"
+        },
+        "third": {
+            "name": "chiyo"
+        }
+    },
+    {
+        "buzzword": "dev fun",
+        "first": {
+            "name": "haru"
+        },
+        "second": {
+            "name": "sayaka"
+        },
+        "third": {
+            "name": "souta"
+        }
+    },
+    {
+        "buzzword": "events in italy",
+        "first": {
+            "name": "ayane"
+        },
+        "second": {
+            "name": "saori"
+        },
+        "third": {
+            "name": "nanami"
+        }
+    },
+    {
+        "buzzword": "events in the netherlands",
+        "first": {
+            "name": "kei"
+        },
+        "second": {
+            "name": "haruna"
+        },
+        "third": {
+            "name": "haruna"
+        }
+    },
+    {
+        "buzzword": "healthcare",
+        "first": {
+            "name": "ryuunosuke"
+        },
+        "second": {
+            "name": "akihito"
+        },
+        "third": {
+            "name": "kotone"
+        }
+    },
+    {
+        "buzzword": "magento 2",
+        "first": {
+            "name": "ry\u016bnosuke"
+        },
+        "second": {
+            "name": "haruki"
+        },
+        "third": {
+            "name": "j\u016br\u014d"
+        }
+    },
+    {
+        "buzzword": "tikz",
+        "first": {
+            "name": "kichirou"
+        },
+        "second": {
+            "name": "gorou"
+        },
+        "third": {
+            "name": "jurou"
+        }
+    },
+    {
+        "buzzword": "neuroscience",
+        "first": {
+            "name": "nana (2)"
+        },
+        "second": {
+            "name": "noriaki"
+        },
+        "third": {
+            "name": "hina"
+        }
+    },
+    {
+        "buzzword": "ad-free",
+        "first": {
+            "name": "nobu"
+        },
+        "second": {
+            "name": "saburou"
+        },
+        "third": {
+            "name": "daisuke"
+        }
+    },
+    {
+        "buzzword": "esolangs",
+        "first": {
+            "name": "hoshiko"
+        },
+        "second": {
+            "name": "mayu"
+        },
+        "third": {
+            "name": "masako"
+        }
+    },
+    {
+        "buzzword": "prometheus",
+        "first": {
+            "name": "hiroki"
+        },
+        "second": {
+            "name": "etsuko"
+        },
+        "third": {
+            "name": "mami"
+        }
+    },
+    {
+        "buzzword": "homematic",
+        "first": {
+            "name": "arata"
+        },
+        "second": {
+            "name": "ry\u016bnosuke"
+        },
+        "third": {
+            "name": "chou"
+        }
+    },
+    {
+        "buzzword": "ledger",
+        "first": {
+            "name": "shinobu"
+        },
+        "second": {
+            "name": "izumi"
+        },
+        "third": {
+            "name": "juurou"
+        }
+    },
+    {
+        "buzzword": "uncopyright",
+        "first": {
+            "name": "rina (4)"
+        },
+        "second": {
+            "name": "kaoru"
+        },
+        "third": {
+            "name": "makoto"
+        }
+    },
+    {
+        "buzzword": "crypto currency tools & algorithms",
+        "first": {
+            "name": "emi"
+        },
+        "second": {
+            "name": "ken'ichi"
+        },
+        "third": {
+            "name": "arata"
+        }
+    },
+    {
+        "buzzword": "diversity",
+        "first": {
+            "name": "rina (4)"
+        },
+        "second": {
+            "name": "ky\u014d"
+        },
+        "third": {
+            "name": "kichir\u014d"
+        }
+    },
+    {
+        "buzzword": "open source supporters",
+        "first": {
+            "name": "kaoru"
+        },
+        "second": {
+            "name": "atsushi"
+        },
+        "third": {
+            "name": "makoto"
+        }
+    },
+    {
+        "buzzword": "design principles",
+        "first": {
+            "name": "setsuko"
+        },
+        "second": {
+            "name": "hanae"
+        },
+        "third": {
+            "name": "kichirou"
+        }
+    },
+    {
+        "buzzword": "visual regression testing",
+        "first": {
+            "name": "s\u014dma"
+        },
+        "second": {
+            "name": "jir\u014d"
+        },
+        "third": {
+            "name": "cho"
+        }
+    },
+    {
+        "buzzword": "theravada",
+        "first": {
+            "name": "susumu"
+        },
+        "second": {
+            "name": "michiko"
+        },
+        "third": {
+            "name": "haruko"
+        }
+    },
+    {
+        "buzzword": "inspectit",
+        "first": {
+            "name": "ky\u014d"
+        },
+        "second": {
+            "name": "ren"
+        },
+        "third": {
+            "name": "midori"
+        }
+    },
+    {
+        "buzzword": "open source maintainers",
+        "first": {
+            "name": "chika (2)"
+        },
+        "second": {
+            "name": "kuro"
+        },
+        "third": {
+            "name": "shota"
+        }
+    },
+    {
+        "buzzword": "calculators",
+        "first": {
+            "name": "j\u016br\u014d"
+        },
+        "second": {
+            "name": "kouji"
+        },
+        "third": {
+            "name": "minoru"
+        }
+    },
+    {
+        "buzzword": "captcha",
+        "first": {
+            "name": "k\u014dki"
+        },
+        "second": {
+            "name": "kyo"
+        },
+        "third": {
+            "name": "shouhei"
+        }
+    },
+    {
+        "buzzword": "jupyter",
+        "first": {
+            "name": "akari"
+        },
+        "second": {
+            "name": "kouji"
+        },
+        "third": {
+            "name": "shirou"
+        }
+    },
+    {
+        "buzzword": "first robotics competition",
+        "first": {
+            "name": "natsuko"
+        },
+        "second": {
+            "name": "aoi"
+        },
+        "third": {
+            "name": "shota"
+        }
+    },
+    {
+        "buzzword": "humane technology",
+        "first": {
+            "name": "ayano"
+        },
+        "second": {
+            "name": "nanako"
+        },
+        "third": {
+            "name": "kanon"
+        }
+    },
+    {
+        "buzzword": "speakers",
+        "first": {
+            "name": "keiko"
+        },
+        "second": {
+            "name": "hiroki"
+        },
+        "third": {
+            "name": "noboru"
+        }
+    },
+    {
+        "buzzword": "board games",
+        "first": {
+            "name": "kokoro"
+        },
+        "second": {
+            "name": "naruhito"
+        },
+        "third": {
+            "name": "hanako"
+        }
+    },
+    {
+        "buzzword": "software patreons",
+        "first": {
+            "name": "hideki"
+        },
+        "second": {
+            "name": "nanako"
+        },
+        "third": {
+            "name": "katashi"
+        }
+    },
+    {
+        "buzzword": "parasite",
+        "first": {
+            "name": "hikari"
+        },
+        "second": {
+            "name": "etsuko"
+        },
+        "third": {
+            "name": "shingo"
+        }
+    },
+    {
+        "buzzword": "food",
+        "first": {
+            "name": "osamu"
+        },
+        "second": {
+            "name": "aki (2)"
+        },
+        "third": {
+            "name": "mami"
+        }
+    },
+    {
+        "buzzword": "mental health",
+        "first": {
+            "name": "ch\u014d"
+        },
+        "second": {
+            "name": "haruna"
+        },
+        "third": {
+            "name": "junpei"
+        }
+    },
+    {
+        "buzzword": "bitcoin payment processors",
+        "first": {
+            "name": "akihiko"
+        },
+        "second": {
+            "name": "nanami"
+        },
+        "third": {
+            "name": "shinju"
+        }
+    },
+    {
+        "buzzword": "scientific computing",
+        "first": {
+            "name": "ayano"
+        },
+        "second": {
+            "name": "hideki"
+        },
+        "third": {
+            "name": "saki"
+        }
+    },
+    {
+        "buzzword": "amazon sellers",
+        "first": {
+            "name": "juurou"
+        },
+        "second": {
+            "name": "akari"
+        },
+        "third": {
+            "name": "kenzou"
+        }
+    },
+    {
+        "buzzword": "agriculture",
+        "first": {
+            "name": "masako"
+        },
+        "second": {
+            "name": "hanako"
+        },
+        "third": {
+            "name": "ayame"
+        }
+    },
+    {
+        "buzzword": "plotters",
+        "first": {
+            "name": "koji"
+        },
+        "second": {
+            "name": "hanzou"
+        },
+        "third": {
+            "name": "hiroko"
+        }
+    },
+    {
+        "buzzword": "product design",
+        "first": {
+            "name": "chinatsu"
+        },
+        "second": {
+            "name": "ry\u016bji"
+        },
+        "third": {
+            "name": "hanz\u014d"
+        }
+    },
+    {
+        "buzzword": "prisma",
+        "first": {
+            "name": "misaki"
+        },
+        "second": {
+            "name": "masaru"
+        },
+        "third": {
+            "name": "hina"
+        }
+    },
+    {
+        "buzzword": "software architecture",
+        "first": {
+            "name": "haruko"
+        },
+        "second": {
+            "name": "kousuke"
+        },
+        "third": {
+            "name": "kosuke"
+        }
+    },
+    {
+        "buzzword": "connectivity data and reports",
+        "first": {
+            "name": "ichiro"
+        },
+        "second": {
+            "name": "k\u014dta"
+        },
+        "third": {
+            "name": "ami (3)"
+        }
+    },
+    {
+        "buzzword": "stacks",
+        "first": {
+            "name": "ken (2)"
+        },
+        "second": {
+            "name": "shin"
+        },
+        "third": {
+            "name": "naruhito"
+        }
+    },
+    {
+        "buzzword": "cytodata",
+        "first": {
+            "name": "noboru"
+        },
+        "second": {
+            "name": "kenzou"
+        },
+        "third": {
+            "name": "hideki"
+        }
+    },
+    {
+        "buzzword": "irc",
+        "first": {
+            "name": "mari (2)"
+        },
+        "second": {
+            "name": "k\u014dki"
+        },
+        "third": {
+            "name": "hanzou"
+        }
+    },
+    {
+        "buzzword": "advertising",
+        "first": {
+            "name": "cho"
+        },
+        "second": {
+            "name": "shigeru"
+        },
+        "third": {
+            "name": "hachirou"
+        }
+    },
+    {
+        "buzzword": "earth",
+        "first": {
+            "name": "hoshiko"
+        },
+        "second": {
+            "name": "hifumi"
+        },
+        "third": {
+            "name": "shichir\u014d"
+        }
+    },
+    {
+        "buzzword": "naming",
+        "first": {
+            "name": "rio (2)"
+        },
+        "second": {
+            "name": "ryuunosuke"
+        },
+        "third": {
+            "name": "shion"
+        }
+    },
+    {
+        "buzzword": "biomedical information extraction",
+        "first": {
+            "name": "jun (2)"
+        },
+        "second": {
+            "name": "satomi"
+        },
+        "third": {
+            "name": "mitsuko"
+        }
+    },
+    {
+        "buzzword": "awesome indexed",
+        "first": {
+            "name": "kimiko"
+        },
+        "second": {
+            "name": "kenji"
+        },
+        "third": {
+            "name": "hanzou"
+        }
+    },
+    {
+        "buzzword": "awesome search",
+        "first": {
+            "name": "kouki"
+        },
+        "second": {
+            "name": "riku (2)"
+        },
+        "third": {
+            "name": "kenshin"
+        }
+    }
+]
