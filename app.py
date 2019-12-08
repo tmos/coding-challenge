@@ -2,7 +2,7 @@ from flask import Flask
 from flask_restful import Api, Resource
 import json
 
-app = Flask(__name__, static_url_path='')
+app = Flask(__name__, static_url_path='', static_folder='webapp/public')
 api = Api(app)
 
 # Load data from the JSON database
@@ -19,7 +19,6 @@ class User(Resource):
 
 
 api.add_resource(User, "/ninjify/<string:name>")
-
 
 @app.route("/")
 def root():

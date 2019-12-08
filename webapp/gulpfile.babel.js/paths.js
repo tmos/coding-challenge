@@ -13,6 +13,10 @@ module.exports = {
       "folder": "./src",
       "files": "./src/index.html",
     },
+    "img": {
+      "folder": "./src/img",
+      "files": "./src/img/*",
+    },
   },
   "public": {
     "css": {
@@ -27,6 +31,10 @@ module.exports = {
     "html": {
       "folder": "./public",
       "files": "./public/index.html",
+    },
+    "img": {
+      "folder": "./public/img",
+      "files": "./public/img/*",
     },
   },
 }

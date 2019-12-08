@@ -1,0 +1,58 @@
+body {
+    background-color: #222;
+}
+
+.Content {
+    background-color: #EEE;
+    max-width: 80%;
+    margin: 2rem auto;
+    overflow: hidden;
+    border-radius: 1rem;
+}
+
+.Illus {
+    background-image: url('./../img/hokusai.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Form {
+    
+}
+.Form--header,
+.Form--content,
+.Form--footer {
+    padding:2rem 2rem 0 2rem;
+}
+.Form--header {
+    text-align: center;
+}
+.Form--content {
+    
+}
+
+.Form--footer {
+    color:#333;
+    font-size: .8em;
+}
+
+.NinjaID {
+    min-height: 300px;
+}
+.NinjaID.NinjaIDempty .card{
+    display: none;
+}
+.NinjaID--name {
+    text-align: center;
+}
+.NinjaID--avatar {
+    height: 90px;
+    width: 90px;
+    border-radius: 100%;
+    background-image: url('https://api.adorable.io/avatars/90/abott@adorable.png');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: auto;
+}

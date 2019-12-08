@@ -16,14 +16,31 @@ import browserSync from 'browser-sync';
 import postcss_import from 'postcss-import';
 import babel from 'gulp-babel';
 import uglify from 'gulp-uglify';
+import imagemin from 'gulp-imagemin';
 
 // Paths
 import PATHS from './paths';
 
+/**
+ * HTML processing
+ */
 function html() {
   return src(PATHS.src.html.files)
     .pipe(dest(PATHS.public.html.folder));
 }
+
+/**
+ * Pictures optimisation
+ *  - jpeg progressive loadin   \w imagemin(jpegtran)
+ */
+function img() {
+  return src(PATHS.src.img.files)
+    .pipe(imagemin([imagemin.jpegtran({
+      progressive: true
+    })]))
+    .pipe(dest(PATHS.public.img.folder));
+}
+
 /**
  * CSS post processing:
  *  - browser prefixing     w\ autoprefixer
@@ -66,9 +83,8 @@ function js() {
 function dev() {
   // Setup BS
   browserSync({
-    server: {
-      baseDir: "./public",
-      index: "/index.html"
+    proxy: {
+      target: "http://127.0.0.1:5000/"
     }
   });
 
@@ -76,6 +92,11 @@ function dev() {
   watch(PATHS.src.html.files, {
     ignoreInitial: false
   }, html).on('change', browserSync.reload);
+
+  // IMG
+  watch(PATHS.src.img.files, {
+    ignoreInitial: false
+  }, img).on('change', browserSync.reload);
 
   // CSS
   watch(PATHS.src.css.files, {
@@ -91,4 +112,5 @@ function dev() {
 exports.html = html;
 exports.js = js;
 exports.css = css;
+exports.img = img;
 exports.default = dev;
