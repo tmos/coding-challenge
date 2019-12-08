@@ -30,22 +30,21 @@
                         <form>
                             <div class="form-group">
                                 <div class="input-group mb-3">
-                                    <input type="text" class="form-control" id="buzzword" placeholder="Enter buzzword">
+                                    <input type="text" class="form-control" id="Buzzword" placeholder="Enter buzzword">
                                     <div class="input-group-append">
-                                        <button type="submit" class="btn btn-primary">Ninja!&nbsp;<i
+                                        <button type="submit" id="Submit" class="btn btn-primary">Ninja!&nbsp;<i
                                                 class="fas fa-user-ninja"></i></button>
                                     </div>
                                 </div>
                             </div>
                         </form>
 
-                        <div class="NinjaID NinjaIDempty">
-                            <div class="card" style="width: 18rem;">
+                        <div id="ninja_card" class="NinjaID NinjaIDempty">
+                            <div class="card">
                                 <div class="card-body">
-                                    <h2 class="card-title NinjaID--name">...</h2>
-                                    <div class="NinjaID--avatar"></div>
-
-                                    <p class="card-text">
+                                    <h2 id="NinjaName" class="card-title NinjaID--name">...</h2>
+                                    <div id="NinjaAvatar" class="NinjaID--avatar"></div>
+                                    <p id="NinjaDescription" class="card-text">
                                         [...]
                                     </p>
                                 </div>
@@ -65,7 +64,7 @@
 
 
     <script src="https://kit.fontawesome.com/8c53426758.js" crossorigin="anonymous"></script>
-    <script src="js/scripts.js"></script>
+    <script src="js/script.js"></script>
 </body>
 
 </html>
