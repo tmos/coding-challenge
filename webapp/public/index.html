@@ -13,49 +13,52 @@
 
 <body>
     <div class="container">
-        <div class="Content">
+        <div class="wrapper">
             <div class="row">
-                <div class="col col-lg-5 Illus">
+
+                <div class="col col-md-5 d-none d-md-block illus">
                 </div>
-                <div class="col col-lg-7 Form">
-                    <header class="Form--header">
+
+                <div class="col col-md-7 col-sm-12 Form">
+                    <header class="form--header">
                         <h1>Shinobi</h1>
-                        <p class="Form--header_p">Generate your own war name, based on your favorite technology!
+                        <p class="form--header_p">Generate your own war name, based on your favorite technology!
                         </p>
                     </header>
 
-                    <main class="Form--content">
-
-
+                    <main class="form--content">
                         <form>
                             <div class="form-group">
                                 <div class="input-group mb-3">
-                                    <input type="text" class="form-control" id="Buzzword" placeholder="Enter buzzword">
+                                    <input type="text" class="form-control" id="buzzword" placeholder="Enter buzzword">
                                     <div class="input-group-append">
-                                        <button type="submit" id="Submit" class="btn btn-primary">Ninja!&nbsp;<i
-                                                class="fas fa-user-ninja"></i></button>
+                                        <button type="submit" id="submit-button" class="btn btn-primary">
+                                            Ninja!&nbsp;<i class="fas fa-user-ninja"></i>
+                                        </button>
                                     </div>
                                 </div>
                             </div>
                         </form>
 
-                        <div id="ninja_card" class="NinjaID NinjaIDempty">
+                        <div id="ninja-card" class="ninja-id ninja-id_empty">
                             <div class="card">
+                                <div class="card-header">
+                                    <h2 id="ninja-name" class="card-title ninja-id--name">...</h2>
+                                </div>
                                 <div class="card-body">
-                                    <h2 id="NinjaName" class="card-title NinjaID--name">...</h2>
-                                    <div id="NinjaAvatar" class="NinjaID--avatar"></div>
-                                    <p id="NinjaDescription" class="card-text">
-                                        [...]
-                                    </p>
+                                    <div id="ninja-avatar" class="ninja-id--avatar"></div>
                                 </div>
                             </div>
                         </div>
-
                     </main>
 
-                    <footer class="Form--footer">
-                        <p>Built with ❤️ for TLM - <a href="https://github.com/tmos/coding-challenge">Github <i
-                                    class="fas fa-cat"></i></a></p>
+                    <footer class="form--footer">
+                        <p>
+                            Built with ❤️ for TLM -
+                            <a href="https://github.com/tmos/coding-challenge">
+                                Github <i class="fas fa-cat"></i>
+                            </a>
+                        </p>
                     </footer>
                 </div>
             </div>

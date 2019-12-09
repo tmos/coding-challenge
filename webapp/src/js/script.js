@@ -1,13 +1,16 @@
 "use strict";
 
 window.addEventListener("load", function () {
-    const submit_button = document.getElementById("Submit");
-    const buzzword_field = document.getElementById("Buzzword");
+    const submit_button = document.getElementById("submit-button");
+    const buzzword_field = document.getElementById("buzzword");
+    const ninja_card = document.getElementById("ninja-card");
+    const ninja_name = document.getElementById("ninja-name");
+    const ninja_avatar = document.getElementById("ninja-avatar");
 
-    const ninja_card = document.getElementById("ninja_card");
-    const ninja_name = document.getElementById("NinjaName");
-    const ninja_avatar = document.getElementById("NinjaAvatar");
-    const ninja_description = document.getElementById("NinjaDescription");
+    function generate_avatar_url(keyword) {
+        keyword = keyword.replace(/\s/g,'')
+        return `http://tinygraphs.com/spaceinvaders/${keyword}?theme=heatwave&numcolors=4&size=220&fmt=png`;
+    }
 
     submit_button.addEventListener('click', (event) => {
         event.preventDefault();
@@ -17,17 +20,18 @@ window.addEventListener("load", function () {
             .then(
                 function (response) {
                     if (response.status !== 200) {
+                        buzzword_field.classList.add('is-invalid');
                         console.log('Looks like there was a problem. Status Code: ' +
                             response.status);
                         return;
                     }
-
+                    
+                    buzzword_field.classList.remove('is-invalid');
                     response.json().then(function (data) {
                         let generated_name = `${data.first.name} ${data.second.name} ${data.third.name}`;
                         ninja_name.innerHTML = generated_name;
-                        ninja_avatar.style.backgroundImage = `url('https://api.adorable.io/avatars/90/${generated_name}.png')`;
-                        ninja_description.innerHTML = data.first.name;
-                        ninja_card.classList.remove("NinjaIDempty");
+                        ninja_avatar.style.backgroundImage = `url(${generate_avatar_url(generated_name)})`;
+                        ninja_card.classList.remove("ninja-id_empty");
                         console.log(data);
                     });
                 }

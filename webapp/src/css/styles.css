@@ -2,51 +2,45 @@ body {
     background-color: #222;
 }
 
-.Content {
+.wrapper {
     background-color: #EEE;
-    max-width: 80%;
     margin: 2rem auto;
     overflow: hidden;
     border-radius: 1rem;
 }
 
-.Illus {
+.illus {
     background-image: url('./../img/hokusai.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-.Form {
-    
-}
-.Form--header,
-.Form--content,
-.Form--footer {
+.form--header,
+.form--content,
+.form--footer {
     padding:2rem 2rem 0 2rem;
 }
-.Form--header {
+.form--header {
     text-align: center;
 }
-.Form--content {
-    
-}
 
-.Form--footer {
+.form--footer {
     color:#333;
     font-size: .8em;
 }
 
-.NinjaID {
+.ninja-id {
     min-height: 300px;
 }
-.NinjaID.NinjaIDempty .card{
+.ninja-id.ninja-id_empty .card{
     display: none;
 }
-.NinjaID--name {
+.ninja-id--name {
     text-align: center;
 }
-#NinjaAvatar {
+#ninja-avatar {
+    box-shadow: 0 0 3px -1px #404040;
     height: 90px;
     width: 90px;
     border-radius: 100%;
