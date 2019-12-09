@@ -9,7 +9,7 @@
 ### Back-end
  - Python backend, with flask 🆕
  - Database stored in a JSON file
- - Database generation with a Python script
+ - Database generation (srapping data from Awesome list and an obscure website with japanese names)
  - Tests with pytest
 
 ### Front-end
